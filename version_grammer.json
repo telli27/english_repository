@@ -1,10 +1,11 @@
 {
     "settings":{
-        "version":3
+        "version":4
     },
     "newVersionData":[
        "tasarım düzenlendi",
-       "kullanıcı deneyimi açısından ynilikler yapıldı"
+       "kullanıcı deneyimi açısından yenilikler yapıldı",
+       "renkler düzenlendi"
     ]
 } 
 
