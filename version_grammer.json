@@ -1,11 +1,13 @@
 {
     "settings":{
-        "version":9
+        "version":10
     },
     "newVersionData":[
        "tasarım düzenlendi",
        "kullanıcı deneyimi açısından yenilikler yapıldı",
-       "renkler düzenlendi"
+       "renkler düzenlendi",
+       "verisona bakıldı"
+
     ]
 } 
 
