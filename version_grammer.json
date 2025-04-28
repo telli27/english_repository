@@ -1,6 +1,10 @@
 {
     "settings":{
-        "version":1
-    }
+        "version":2
+    },
+    "newVersionData":[
+       "tasarım düzenlendi",
+       "kullanıcı deneyimi açısından ynilikler yapıldı"
+    ]
 } 
 
