@@ -1,301 +1,301 @@
 {
-    "topics": [
-      {
-        "id": "1-1",
-        "title": "Simple Present (Presente Simple)",
-        "description": "Se utiliza para hábitos, verdades generales y acciones que se repiten regularmente.",
-        "examples": [
-          "I wake up at 7 AM every day. (Me levanto a las 7 AM todos los días.)",
-          "Water boils at 100°C. (El agua hierve a 100°C.)",
-          "She doesn't like coffee. (A ella no le gusta el café.)",
-          "Do you speak English? (¿Hablas inglés?)"
-        ],
-        "color": "#4CAF50",
-        "iconPath": "assets/icons/simple_present.svg",
-        "grammar_structure": "El Presente Simple (Simple Present) es una estructura de tiempo verbal utilizada para expresar rutinas diarias, hábitos, verdades generales y hechos científicos.\n\n1. Oraciones afirmativas:\n   - I/you/we/they + V1 (forma base del verbo)\n     Ejemplo: \"I work every day.\" (Trabajo todos los días.)\n     Ejemplo: \"You live in Istanbul.\" (Vives en Estambul.)\n   - He/she/it + V1 + s/es\n     Ejemplo: \"He works in a bank.\" (Él trabaja en un banco.)\n     Ejemplo: \"She lives in Ankara.\" (Ella vive en Ankara.)\n\n2. Oraciones negativas:\n   - I/you/we/they + do not (don't) + V1\n     Ejemplo: \"I don't like coffee.\" (No me gusta el café.)\n     Ejemplo: \"They don't work on Sundays.\" (Ellos no trabajan los domingos.)\n   - He/she/it + does not (doesn't) + V1\n     Ejemplo: \"He doesn't speak French.\" (Él no habla francés.)\n     Ejemplo: \"It doesn't rain much in summer.\" (No llueve mucho en verano.)\n\n3. Oraciones interrogativas:\n   - Do + I/you/we/they + V1...?\n     Ejemplo: \"Do you live here?\" (¿Vives aquí?)\n     Ejemplo: \"Do they work together?\" (¿Trabajan juntos?)\n   - Does + he/she/it + V1...?\n     Ejemplo: \"Does she like music?\" (¿A ella le gusta la música?)\n     Ejemplo: \"Does it open at 9 AM?\" (¿Abre a las 9 AM?)\n\n4. Reglas especiales para la tercera persona del singular (he/she/it):\n   - Regla general: verbo + s (work → works, play → plays)\n     Ejemplo: \"He works hard.\" (Él trabaja duro.)\n   - Verbos que terminan en ch, sh, ss, x, o: verbo + es (watch → watches, go → goes)\n     Ejemplo: \"She watches TV every evening.\" (Ella ve la televisión todas las noches.)\n   - Verbos que terminan en consonante + y: y → i + es (study → studies, cry → cries)\n     Ejemplo: \"He studies English.\" (Él estudia inglés.)\n   - Verbos que terminan en vocal + y: verbo + s (play → plays, say → says)\n     Ejemplo: \"She plays tennis.\" (Ella juega al tenis.)\n\n5. Verbos con formas especiales:\n   - have → has (para he/she/it): \"She has a car.\" (Ella tiene un coche.)\n   - do → does (para he/she/it): \"He does his homework.\" (Él hace su tarea.)\n\n6. Usos del Presente Simple:\n   - Hábitos y rutinas: \"I drink coffee every morning.\" (Bebo café todas las mañanas.)\n   - Verdades generales: \"The Earth revolves around the Sun.\" (La Tierra gira alrededor del Sol.)\n   - Situaciones permanentes: \"I live in Turkey.\" (Vivo en Turquía.)\n   - Horarios e instrucciones: \"First, you mix the ingredients.\" (Primero, mezclas los ingredientes.)\n   - Programas y horarios: \"The train arrives at 5 PM.\" (El tren llega a las 5 PM.)\n\n7. Adverbios de frecuencia comúnmente usados con el Presente Simple:\n   - always (siempre), usually (usualmente), often (a menudo)\n   - sometimes (a veces), rarely (raramente), never (nunca)\n   - every day/week/month/year (todos los días/semanas/meses/años)",
-        "subtopics": []
-      },
-      {
-        "id": "1-2",
-        "title": "Present Continuous (Presente Continuo)",
-        "description": "Se utiliza para acciones que están ocurriendo en el momento de hablar.",
-        "examples": [
-          "I am studying right now. (Estoy estudiando ahora mismo.)",
-          "He is playing football with his friends. (Él está jugando al fútbol con sus amigos.)",
-          "They are not working today. (Ellos no están trabajando hoy.)",
-          "Are you listening to me? (¿Me estás escuchando?)"
-        ],
-        "color": "#4CAF50",
-        "iconPath": "assets/icons/present_continuous.svg",
-        "grammar_structure": "El Presente Continuo (Present Continuous) es una estructura de tiempo verbal utilizada para expresar acciones que están en progreso en el momento de hablar o planes para el futuro cercano.\n\n1. Oraciones afirmativas:\n   - I + am + Ving\n     Ejemplo: \"I am reading a book.\" (Estoy leyendo un libro.)\n   - You/we/they + are + Ving\n     Ejemplo: \"You are watching TV.\" (Estás viendo la televisión.)\n     Ejemplo: \"They are playing football.\" (Están jugando al fútbol.)\n   - He/she/it + is + Ving\n     Ejemplo: \"She is studying for her exam.\" (Ella está estudiando para su examen.)\n     Ejemplo: \"It is raining.\" (Está lloviendo.)\n\n2. Oraciones negativas:\n   - I + am not ('m not) + Ving\n     Ejemplo: \"I'm not sleeping.\" (No estoy durmiendo.)\n   - You/we/they + are not (aren't) + Ving\n     Ejemplo: \"You aren't listening.\" (No estás escuchando.)\n     Ejemplo: \"They aren't working today.\" (Hoy no están trabajando.)\n   - He/she/it + is not (isn't) + Ving\n     Ejemplo: \"He isn't playing guitar.\" (Él no está tocando la guitarra.)\n     Ejemplo: \"She isn't cooking dinner.\" (Ella no está cocinando la cena.)\n\n3. Oraciones interrogativas:\n   - Am + I + Ving...?\n     Ejemplo: \"Am I disturbing you?\" (¿Te estoy molestando?)\n   - Are + you/we/they + Ving...?\n     Ejemplo: \"Are you studying English?\" (¿Estás estudiando inglés?)\n     Ejemplo: \"Are they coming tonight?\" (¿Vienen esta noche?)\n   - Is + he/she/it + Ving...?\n     Ejemplo: \"Is she waiting for us?\" (¿Nos está esperando?)\n     Ejemplo: \"Is it working properly?\" (¿Está funcionando correctamente?)\n\n4. Reglas para añadir -ing:\n   - Regla general: verbo + ing (play → playing, walk → walking)\n     Ejemplo: \"I am walking to school.\" (Estoy caminando a la escuela.)\n   - Verbos que terminan en \"e\": se quita la e + ing (come → coming, write → writing)\n     Ejemplo: \"She is writing a letter.\" (Ella está escribiendo una carta.)\n   - Verbos de una sílaba con vocal corta y una consonante final: se duplica la consonante final + ing (run → running, sit → sitting)\n     Ejemplo: \"They are running in the park.\" (Están corriendo en el parque.)\n   - Verbos que terminan en \"ie\": ie → y + ing (lie → lying, die → dying)\n     Ejemplo: \"She is lying on the beach.\" (Ella está tumbada en la playa.)\n\n5. Usos del Presente Continuo:\n   - Acciones que ocurren ahora mismo: \"I am cooking dinner right now.\" (Estoy cocinando la cena ahora mismo.)\n   - Situaciones temporales: \"She is living with her parents until she finds a new apartment.\" (Está viviendo con sus padres hasta que encuentre un nuevo apartamento.)\n   - Planes para el futuro cercano: \"We are meeting at 6 PM tonight.\" (Nos reunimos a las 6 PM esta noche.)\n   - Situaciones cambiantes: \"The population is increasing rapidly.\" (La población está aumentando rápidamente.)\n   - Acciones repetitivas y molestas (con always, constantly, continuously): \"She is always complaining.\" (Ella siempre se está quejando.)\n\n6. Adverbios de tiempo comúnmente usados con el Presente Continuo:\n   - now (ahora), right now (ahora mismo), at the moment (en este momento)\n   - today (hoy), this week/month (esta semana/mes)\n   - Look! (¡Mira!), Listen! (¡Escucha!)\n\n7. Verbos que generalmente no se usan en Presente Continuo:\n   - Verbos de estado (stative verbs): like, love, hate, want, need, prefer\n     Ejemplo: \"I like chocolate.\" (Me gusta el chocolate.) (I am liking chocolate. - INCORRECTO)\n   - Verbos de percepción: see, hear, smell, taste\n     Ejemplo: \"I see what you mean.\" (Entiendo lo que quieres decir.) (I am seeing what you mean. - INCORRECTO)\n   - Verbos de pensamiento: think, believe, understand, know, remember\n     Ejemplo: \"I think you're right.\" (Creo que tienes razón.) (I am thinking you're right. - INCORRECTO)\n   - Verbos de posesión: have, own, belong\n     Ejemplo: \"She has two cars.\" (Ella tiene dos coches.) (She is having two cars. - INCORRECTO)",
-        "subtopics": []
-      },
-      {
-        "id": "1-3",
-        "title": "Present Perfect (Presente Perfecto)",
-        "description": "Se utiliza para acciones que comenzaron en el pasado y continúan hasta el presente.",
-        "examples": [
-          "I have lived in Istanbul for 5 years. (He vivido en Estambul durante 5 años.)",
-          "She has never been to Paris. (Ella nunca ha estado en París.)",
-          "Have you ever tried sushi? (¿Alguna vez has probado el sushi?)",
-          "They have already finished their homework. (Ellos ya han terminado su tarea.)"
-        ],
-        "color": "#4CAF50",
-        "iconPath": "assets/icons/present_perfect.svg",
-        "grammar_structure": "El Presente Perfecto (Present Perfect) es una estructura de tiempo verbal utilizada para expresar eventos que ocurrieron en el pasado pero que tienen una conexión con el presente.\n\n1. Oraciones afirmativas:\n   - I/you/we/they + have + past participle (V3)\n     Ejemplo: \"I have seen that movie.\" (He visto esa película.)\n     Ejemplo: \"They have visited London.\" (Han visitado Londres.)\n   - He/she/it + has + past participle (V3)\n     Ejemplo: \"She has finished her homework.\" (Ella ha terminado su tarea.)\n     Ejemplo: \"He has lived here for ten years.\" (Él ha vivido aquí durante diez años.)\n\n2. Oraciones negativas:\n   - I/you/we/they + have not (haven't) + past participle\n     Ejemplo: \"I haven't read that book.\" (No he leído ese libro.)\n     Ejemplo: \"We haven't decided yet.\" (Todavía no hemos decidido.)\n   - He/she/it + has not (hasn't) + past participle\n     Ejemplo: \"She hasn't called me.\" (Ella no me ha llamado.)\n     Ejemplo: \"It hasn't rained for months.\" (No ha llovido en meses.)\n\n3. Oraciones interrogativas:\n   - Have + I/you/we/they + past participle...?\n     Ejemplo: \"Have you ever been to Rome?\" (¿Alguna vez has estado en Roma?)\n     Ejemplo: \"Have they arrived yet?\" (¿Ya han llegado?)\n   - Has + he/she/it + past participle...?\n     Ejemplo: \"Has she finished her exam?\" (¿Ha terminado su examen?)\n     Ejemplo: \"Has the movie started?\" (¿Ha empezado la película?)\n\n4. Usos del Presente Perfecto:\n   - Situaciones que comenzaron en el pasado y continúan en el presente:\n     Ejemplo: \"I have lived in Istanbul for five years.\" (He vivido en Estambul durante cinco años.)\n     Ejemplo: \"She has worked at this company since 2015.\" (Ella ha trabajado en esta empresa desde 2015.)\n   - Experiencias pasadas con efecto en el presente:\n     Ejemplo: \"I have broken my arm.\" (Me he roto el brazo. - Aún podría estar enyesado.)\n     Ejemplo: \"She has lost her keys.\" (Ella ha perdido sus llaves. - Aún no las ha encontrado.)\n   - Acciones en un período de tiempo no finalizado:\n     Ejemplo: \"I have drunk three cups of coffee today.\" (Hoy he bebido tres tazas de café.)\n     Ejemplo: \"She has seen five movies this week.\" (Esta semana ha visto cinco películas.)\n   - Experiencias de vida (sin especificar el tiempo):\n     Ejemplo: \"I have been to Paris twice.\" (He estado en París dos veces.)\n     Ejemplo: \"She has met many famous people.\" (Ha conocido a muchas personas famosas.)\n\n5. Adverbios de tiempo comúnmente usados con el Presente Perfecto:\n   - for + período de tiempo (durante...): for two hours, for six months, for a long time\n   - since + punto de inicio en el tiempo (desde...): since 2010, since Monday, since I was a child\n   - ever (alguna vez), never (nunca)\n   - already (ya), yet (todavía/aún - en oraciones negativas e interrogativas)\n   - just (acabar de), recently (recientemente), lately (últimamente)\n   - today (hoy), this week/month/year (esta semana/mes/año)\n\n6. Diferencia entre Present Perfect y Simple Past:\n   - Simple Past: Se utiliza para acciones que ocurrieron y terminaron en un momento específico del pasado.\n     Ejemplo: \"I visited Paris last year.\" (Visité París el año pasado.)\n   - Present Perfect: Se utiliza para acciones que conectan el pasado con el presente, sin especificar el tiempo o que ocurren en un período de tiempo no finalizado.\n     Ejemplo: \"I have visited Paris.\" (He visitado París. - No especifica cuándo.)",
-        "subtopics": []
-      },
-      {
-        "id": "4",
-        "title": "Simple Past (Pasado Simple)",
-        "description": "Se utiliza para acciones completadas en el pasado.",
-        "examples": [
-          "I visited Paris last summer. (Visité París el verano pasado.)",
-          "She didn't go to the party. (Ella no fue a la fiesta.)",
-          "Did you see that movie? (¿Viste esa película?)",
-          "They lived in London for 5 years. (Vivieron en Londres durante 5 años.)",
-          "When I was a child, I played the piano. (Cuando era niño, tocaba el piano.)"
-        ],
-        "color": "#673AB7",
-        "iconPath": "assets/icons/past_tense.svg",
-        "grammar_structure": "El Pasado Simple (Simple Past) es una estructura de tiempo verbal utilizada para acciones que se completaron en un momento específico del pasado.\n\n1. Oraciones afirmativas:\n   - Todos los sujetos (I/you/he/she/it/we/they) + V2 (verbo en pasado)\n     Ejemplo: \"I worked yesterday.\" (Trabajé ayer.)\n     Ejemplo: \"She visited her grandmother.\" (Visitó a su abuela.)\n   - Verbos regulares: V1 + ed (work → worked, play → played)\n     Ejemplo: \"They cleaned the house.\" (Limpiaron la casa.)\n   - Verbos irregulares: Segunda forma (go → went, see → saw, take → took)\n     Ejemplo: \"He went to London.\" (Fue a Londres.)\n     Ejemplo: \"We saw a good movie.\" (Vimos una buena película.)\n\n2. Oraciones negativas:\n   - Todos los sujetos + did not (didn't) + V1 (forma base del verbo)\n     Ejemplo: \"I didn't work yesterday.\" (No trabajé ayer.)\n     Ejemplo: \"She didn't visit her grandmother.\" (No visitó a su abuela.)\n     Ejemplo: \"They didn't go to the party.\" (No fueron a la fiesta.)\n\n3. Oraciones interrogativas:\n   - Did + sujeto + V1...?\n     Ejemplo: \"Did you work yesterday?\" (¿Trabajaste ayer?)\n     Ejemplo: \"Did she visit her grandmother?\" (¿Visitó a su abuela?)\n     Ejemplo: \"Did they go to the party?\" (¿Fueron a la fiesta?)\n\n4. Ortografía de los verbos regulares:\n   - Regla general: V1 + ed (play → played, work → worked)\n     Ejemplo: \"He played football.\" (Jugó al fútbol.)\n   - Verbos que terminan en consonante + y: y → i + ed (study → studied, try → tried)\n     Ejemplo: \"She studied all night.\" (Estudió toda la noche.)\n   - Verbos de una sílaba con una consonante + vocal corta: se duplica la consonante final + ed (stop → stopped, plan → planned)\n     Ejemplo: \"They stopped the car.\" (Pararon el coche.)\n   - Verbos que terminan en e: solo se añade d (live → lived, love → loved)\n     Ejemplo: \"We lived in Paris.\" (Vivimos en París.)\n\n5. Ejemplos de verbos irregulares:\n   - go → went (ir): \"I went to the cinema.\" (Fui al cine.)\n   - see → saw (ver): \"She saw her friend.\" (Vio a su amiga.)\n   - have → had (tener): \"They had a good time.\" (Lo pasaron bien.)\n   - make → made (hacer): \"He made a cake.\" (Hizo un pastel.)\n   - come → came (venir): \"They came to the party.\" (Vinieron a la fiesta.)\n\n6. Usos del Pasado Simple:\n   - Acciones que ocurrieron y terminaron en el pasado: \"I visited Rome last year.\" (Visité Roma el año pasado.)\n   - Acciones que ocurrieron en un punto específico en el tiempo: \"She arrived at 5 PM.\" (Llegó a las 5 PM.)\n   - Acciones pasadas consecutivas: \"He got up, had breakfast, and went to work.\" (Se levantó, desayunó y fue a trabajar.)\n   - Hábitos o estados pasados: \"I lived in London for five years.\" (Viví en Londres durante cinco años.)\n\n7. Marcadores de tiempo comúnmente usados con el Pasado Simple:\n   - yesterday (ayer), last week/month/year (la semana/mes/año pasada/o)\n   - x ago (hace x tiempo): two days ago (hace dos días), a long time ago (hace mucho tiempo)\n   - in + año pasado: in 2010, in 1995\n   - when I was young (cuando era joven), when I was a child (cuando era niño)",
-        "subtopics": []
-      },
-      {
-        "id": "5",
-        "title": "Past Continuous (Pasado Continuo)",
-        "description": "Se utiliza para acciones que estaban en progreso en un momento específico del pasado.",
-        "examples": [
-          "I was watching TV when she called. (Estaba viendo la televisión cuando ella llamó.)",
-          "They were playing football at 7 PM yesterday. (Ayer a las 7 PM estaban jugando al fútbol.)",
-          "What were you doing last night? (¿Qué estabas haciendo anoche?)",
-          "She wasn't sleeping when I got home. (Ella no estaba durmiendo cuando llegué a casa.)"
-        ],
-        "color": "#9C27B0",
-        "iconPath": "assets/icons/past_continuous.svg",
-        "grammar_structure": "El Pasado Continuo (Past Continuous) es una estructura de tiempo verbal utilizada para expresar acciones que estaban en progreso o sucediendo en un momento específico del pasado.\n\n1. Oraciones afirmativas:\n   - I/He/She/It + was + Ving\n     Ejemplo: \"I was reading a book.\" (Estaba leyendo un libro.)\n     Ejemplo: \"She was waiting for the bus.\" (Ella estaba esperando el autobús.)\n   - You/We/They + were + Ving\n     Ejemplo: \"They were playing football.\" (Estaban jugando al fútbol.)\n     Ejemplo: \"We were having dinner.\" (Estábamos cenando.)\n\n2. Oraciones negativas:\n   - I/He/She/It + was not (wasn't) + Ving\n     Ejemplo: \"I wasn't sleeping.\" (No estaba durmiendo.)\n     Ejemplo: \"He wasn't listening.\" (Él no estaba escuchando.)\n   - You/We/They + were not (weren't) + Ving\n     Ejemplo: \"They weren't watching TV.\" (No estaban viendo la televisión.)\n     Ejemplo: \"You weren't working yesterday.\" (No estabas trabajando ayer.)\n\n3. Oraciones interrogativas:\n   - Was + I/he/she/it + Ving...?\n     Ejemplo: \"Was she crying?\" (¿Estaba llorando?)\n     Ejemplo: \"Was it raining?\" (¿Estaba lloviendo?)\n   - Were + you/we/they + Ving...?\n     Ejemplo: \"Were you sleeping?\" (¿Estabas durmiendo?)\n     Ejemplo: \"Were they waiting for us?\" (¿Nos estaban esperando?)\n\n4. Usos del Pasado Continuo:\n   - Una acción en progreso en un momento específico del pasado:\n     Ejemplo: \"At 8 PM last night, I was reading a book.\" (Anoche a las 8 PM, estaba leyendo un libro.)\n   - Una acción en progreso que es interrumpida por otra:\n     Ejemplo: \"When she called, I was cooking dinner.\" (Cuando ella llamó, yo estaba cocinando la cena.)\n     Ejemplo: \"The phone rang while I was taking a shower.\" (El teléfono sonó mientras me estaba duchando.)\n   - Dos acciones en progreso al mismo tiempo en el pasado:\n     Ejemplo: \"While I was studying, my sister was watching TV.\" (Mientras yo estudiaba, mi hermana estaba viendo la televisión.)\n   - Una acción que continuó durante un largo período en el pasado:\n     Ejemplo: \"It was raining all day yesterday.\" (Ayer estuvo lloviendo todo el día.)\n   - Planes pasados que no se realizaron:\n     Ejemplo: \"I was going to call you, but I forgot.\" (Iba a llamarte, pero lo olvidé.)\n\n5. Diferencia entre Past Continuous y Simple Past:\n   - Simple Past: Se utiliza para acciones completadas y terminadas en el pasado.\n     Ejemplo: \"I watched a movie yesterday.\" (Ayer vi una película.)\n   - Past Continuous: Se utiliza para acciones en progreso en el pasado, enfatizando la duración.\n     Ejemplo: \"I was watching a movie when she called.\" (Estaba viendo una película cuando ella llamó.)\n\n6. Conjunciones y expresiones comúnmente usadas con el Pasado Continuo:\n   - when (cuando): \"When I arrived, they were having dinner.\" (Cuando llegué, estaban cenando.)\n   - while (mientras): \"While I was working, it started to rain.\" (Mientras trabajaba, empezó a llover.)\n   - at that time/moment (en ese momento): \"At that moment, I was thinking about you.\" (En ese momento, estaba pensando en ti.)\n   - all day/night/morning (todo el día/noche/mañana): \"He was working all night.\" (Estuvo trabajando toda la noche.)",
-        "subtopics": []
-      },
-      {
-        "id": "6",
-        "title": "Past Perfect (Pasado Perfecto)",
-        "description": "Se utiliza para acciones que ocurrieron antes que otro evento en el pasado.",
-        "examples": [
-          "I had already eaten when she arrived. (Ya había comido cuando ella llegó.)",
-          "They had lived in London before they moved to Paris. (Habían vivido en Londres antes de mudarse a París.)",
-          "Had you met him before the party? (¿Lo habías conocido antes de la fiesta?)",
-          "She hadn't finished her homework when I called. (No había terminado su tarea cuando la llamé.)"
-        ],
-        "color": "#795548",
-        "iconPath": "assets/icons/past_perfect.svg",
-        "grammar_structure": "El Pasado Perfecto (Past Perfect) es una estructura de tiempo verbal utilizada para expresar acciones que se completaron antes de otra acción en el pasado. Indica el 'pasado del pasado'.\n\n1. Oraciones afirmativas:\n   - Todos los sujetos (I/you/he/she/it/we/they) + had + past participle (V3)\n     Ejemplo: \"I had finished my work before I went home.\" (Había terminado mi trabajo antes de ir a casa.)\n     Ejemplo: \"She had studied English before she moved to London.\" (Ella había estudiado inglés antes de mudarse a Londres.)\n     Ejemplo: \"They had lived in Paris for ten years before they moved to Rome.\" (Habían vivido en París durante diez años antes de mudarse a Roma.)\n\n2. Oraciones negativas:\n   - Todos los sujetos + had not (hadn't) + past participle\n     Ejemplo: \"I hadn't seen that movie before last night.\" (No había visto esa película antes de anoche.)\n     Ejemplo: \"They hadn't finished their project when the deadline arrived.\" (No habían terminado su proyecto cuando llegó la fecha límite.)\n     Ejemplo: \"She hadn't met his parents until the wedding.\" (No había conocido a sus padres hasta la boda.)\n\n3. Oraciones interrogativas:\n   - Had + sujeto + past participle...?\n     Ejemplo: \"Had you visited Paris before that trip?\" (¿Habías visitado París antes de ese viaje?)\n     Ejemplo: \"Had she finished her homework when you called?\" (¿Había terminado su tarea cuando llamaste?)\n     Ejemplo: \"Had they ever seen snow before?\" (¿Habían visto nieve alguna vez antes?)\n\n4. Usos del Pasado Perfecto:\n   - Acciones completadas antes de otra acción en el pasado:\n     Ejemplo: \"By the time I arrived, the meeting had started.\" (Para cuando llegué, la reunión ya había comenzado.)\n   - Experiencias que ocurrieron hasta un momento en el pasado:\n     Ejemplo: \"By 2010, I had already graduated from university.\" (Para el 2010, ya me había graduado de la universidad.)\n   - Deseos o anhelos pasados no realizados (if only/wish):\n     Ejemplo: \"I wish I had studied harder.\" (Ojalá hubiera estudiado más.)\n   - Para el estilo indirecto (Reported speech):\n     Ejemplo: \"She said she had finished her homework.\" (Dijo que había terminado su tarea.)\n\n5. Relaciones de tiempo y conjunciones comúnmente usadas con el Pasado Perfecto:\n   - before + simple past (antes de...): \"I had eaten before she arrived.\" (Había comido antes de que ella llegara.)\n   - after + past perfect (después de...): \"After I had finished my work, I went home.\" (Después de que hube terminado mi trabajo, me fui a casa.)\n   - by the time + simple past (para cuando...): \"By the time we arrived, they had left.\" (Para cuando llegamos, ellos ya se habían ido.)\n   - when + simple past (cuando...): \"When I arrived, the movie had already started.\" (Cuando llegué, la película ya había comenzado.)\n   - until + simple past (hasta que...): \"I hadn't realized how serious it was until the doctor explained.\" (No me había dado cuenta de lo grave que era hasta que el médico lo explicó.)\n   - by + tiempo pasado (para...): \"By yesterday, they had completed the project.\" (Para ayer, habían completado el proyecto.)\n\n6. Diferencia entre Past Perfect y Simple Past:\n   - Simple Past: Acciones que ocurrieron en un momento específico del pasado.\n     Ejemplo: \"I visited Rome last year.\" (Visité Roma el año pasado.)\n   - Past Perfect: Acciones que ocurrieron antes de otro evento en el pasado.\n     Ejemplo: \"I had visited Rome before I went to Paris.\" (Había visitado Roma antes de ir a París.)\n\n7. Uso con marcadores de tiempo:\n   - already (ya): \"They had already left.\" (Ya se habían ido.)\n   - just (acabar de): \"She had just finished cooking.\" (Acababa de terminar de cocinar.)\n   - never (nunca): \"I had never seen such a beautiful place.\" (Nunca había visto un lugar tan hermoso.)\n   - for + período de tiempo (durante...): \"They had lived there for 5 years.\" (Habían vivido allí durante 5 años.)\n   - since + punto en el tiempo (desde...): \"He had worked there since 2005.\" (Había trabajado allí desde 2005.)",
-        "subtopics": []
-      },
-      {
-        "id": "7",
-        "title": "Will Future (Futuro con Will)",
-        "description": "Se utiliza para predicciones, promesas, ofrecimientos y decisiones espontáneas.",
-        "examples": [
-          "I think it will rain tomorrow. (Creo que lloverá mañana.)",
-          "I will help you with your homework. (Te ayudaré con tu tarea.)",
-          "I'll take the blue one, please. (Tomaré el azul, por favor.)",
-          "Will you marry me? (¿Te casarás conmigo?)",
-          "She won't come to the party. (Ella no vendrá a la fiesta.)"
-        ],
-        "color": "#FF5722",
-        "iconPath": "assets/icons/will_future.svg",
-        "grammar_structure": "El futuro con 'will' es una estructura de tiempo verbal utilizada para predecir acciones futuras, tomar decisiones espontáneas, hacer promesas u ofrecer algo.\n\n1. Oraciones afirmativas:\n   - Todos los sujetos (I/you/he/she/it/we/they) + will + V1 (verbo base)\n     Ejemplo: \"I will help you tomorrow.\" (Te ayudaré mañana.)\n     Ejemplo: \"She will finish the project on time.\" (Ella terminará el proyecto a tiempo.)\n   - Abreviatura: 'll (I'll, you'll, she'll, etc.)\n     Ejemplo: \"I'll call you later.\" (Te llamaré más tarde.)\n     Ejemplo: \"We'll be there by 8 PM.\" (Estaremos allí para las 8 PM.)\n\n2. Oraciones negativas:\n   - Todos los sujetos + will not (won't) + V1\n     Ejemplo: \"I won't forget your birthday.\" (No olvidaré tu cumpleaños.)\n     Ejemplo: \"They won't arrive until tomorrow.\" (No llegarán hasta mañana.)\n     Ejemplo: \"She won't be happy about this.\" (No estará contenta con esto.)\n\n3. Oraciones interrogativas:\n   - Will + sujeto + V1...?\n     Ejemplo: \"Will you attend the meeting?\" (¿Asistirás a la reunión?)\n     Ejemplo: \"Will she recognize me?\" (¿Me reconocerá?)\n     Ejemplo: \"Will they accept our offer?\" (¿Aceptarán nuestra oferta?)\n\n4. Usos de \"Will\":\n   - Predicciones sobre el futuro:\n     Ejemplo: \"I think it will snow tomorrow.\" (Creo que nevará mañana.)\n     Ejemplo: \"The economy will improve next year.\" (La economía mejorará el próximo año.)\n   - Decisiones espontáneas (tomadas en el momento de hablar):\n     Ejemplo: \"I'll help you with those bags.\" (Te ayudaré con esas bolsas.)\n     Ejemplo: \"I'll take the blue one.\" (Tomaré el azul.)\n   - Promesas:\n     Ejemplo: \"I will always love you.\" (Siempre te amaré.)\n     Ejemplo: \"I promise I won't tell anyone.\" (Prometo que no se lo diré a nadie.)\n   - Ofrecimientos:\n     Ejemplo: \"I'll carry that for you.\" (Lo llevaré por ti.)\n     Ejemplo: \"I'll make dinner tonight.\" (Haré la cena esta noche.)\n   - Peticiones:\n     Ejemplo: \"Will you help me, please?\" (¿Me ayudas, por favor?)\n     Ejemplo: \"Will you open the window?\" (¿Abres la ventana?)\n   - Amenazas o advertencias:\n     Ejemplo: \"You will regret this!\" (¡Te arrepentirás de esto!)\n     Ejemplo: \"You'll miss the train if you don't hurry.\" (Perderás el tren si no te das prisa.)\n\n5. Marcadores de tiempo comúnmente usados:\n   - tomorrow (mañana), next week/month/year (la próxima semana/mes/año)\n   - soon (pronto), in the future (en el futuro), later (más tarde)\n   - tonight (esta noche), in + período de tiempo (en un período de tiempo): in two days (en dos días)\n   - by + tiempo (para un momento específico): by Monday (para el lunes)",
-        "subtopics": []
-      },
-      {
-        "id": "8",
-        "title": "Going to Future (Futuro con Going to)",
-        "description": "Se utiliza para acciones planeadas con antelación y predicciones fuertes sobre eventos futuros.",
-        "examples": [
-          "I am going to study medicine. (Voy a estudiar medicina.)",
-          "She is going to call him tonight. (Ella lo va a llamar esta noche.)",
-          "They are not going to attend the wedding. (No van a asistir a la boda.)",
-          "Are you going to visit your grandparents? (¿Vas a visitar a tus abuelos?)",
-          "Look at those clouds! It's going to rain. (¡Mira esas nubes! Va a llover.)"
-        ],
-        "color": "#FF9800",
-        "iconPath": "assets/icons/going_to_future.svg",
-        "grammar_structure": "El futuro con 'going to' se utiliza para expresar acciones planeadas con antelación o predicciones basadas en evidencias claras.\n\n1. Oraciones afirmativas:\n   - Sujeto + am/is/are + going to + V1 (verbo base)\n     Ejemplo: \"I am going to study tonight.\" (Voy a estudiar esta noche.)\n     Ejemplo: \"She is going to paint the house.\" (Ella va a pintar la casa.)\n     Ejemplo: \"They are going to move to London.\" (Se van a mudar a Londres.)\n\n2. Oraciones negativas:\n   - Sujeto + am/is/are + not + going to + V1\n     Ejemplo: \"I am not going to watch that movie.\" (No voy a ver esa película.)\n     Ejemplo: \"He is not going to buy a new car.\" (Él no va a comprar un coche nuevo.)\n     Ejemplo: \"We are not going to visit them.\" (No los vamos a visitar.)\n\n3. Oraciones interrogativas:\n   - Am/Is/Are + sujeto + going to + V1...?\n     Ejemplo: \"Are you going to apply for that job?\" (¿Vas a solicitar ese trabajo?)\n     Ejemplo: \"Is she going to attend the meeting?\" (¿Va a asistir a la reunión?)\n     Ejemplo: \"Are they going to stay at a hotel?\" (¿Se van a quedar en un hotel?)\n\n4. Usos de \"Going to\":\n   - Acciones planeadas con antelación:\n     Ejemplo: \"I am going to study in Paris next year.\" (Voy a estudiar en París el próximo año.)\n     Ejemplo: \"We are going to build a new house.\" (Vamos a construir una casa nueva.)\n   - Predicciones fuertes (basadas en la situación actual):\n     Ejemplo: \"Look at those clouds. It is going to rain.\" (Mira esas nubes. Va a llover.)\n     Ejemplo: \"She is feeling sick. I think she is going to throw up.\" (Se siente mal. Creo que va a vomitar.)\n   - Eventos inevitables:\n     Ejemplo: \"The baby is going to be born in June.\" (El bebé va a nacer en junio.)\n     Ejemplo: \"They are going to get married in December.\" (Se van a casar en diciembre.)\n\n5. Diferencias entre \"going to\" y \"will\":\n   - \"Going to\" se usa generalmente para acciones ya planeadas o decididas.\n   - \"Will\" se usa generalmente para decisiones espontáneas o predicciones generales.\n   - \"Going to\" expresa una intención más definida.\n   - \"Going to\" se prefiere para predicciones basadas en evidencia actual.\n\n6. Marcadores de tiempo comúnmente usados:\n   - soon (pronto), in the near future (en un futuro cercano)\n   - tomorrow (mañana), next week/month/year (la próxima semana/mes/año)\n   - in + período de tiempo: in two hours (en dos horas)",
-        "subtopics": []
-      },
-      {
-        "id": "9",
-        "title": "Future Continuous (Futuro Continuo)",
-        "description": "Se utiliza para acciones que estarán en progreso en un momento específico del futuro.",
-        "examples": [
-          "This time tomorrow, I will be flying to Paris. (Mañana a esta hora, estaré volando a París.)",
-          "She will be waiting for you at the airport. (Ella te estará esperando en el aeropuerto.)",
-          "Will you be using the car tonight? (¿Estarás usando el coche esta noche?)",
-          "They won't be working next week. (No estarán trabajando la próxima semana.)"
-        ],
-        "color": "#FFC107",
-        "iconPath": "assets/icons/future_continuous.svg",
-        "grammar_structure": "El Futuro Continuo (Future Continuous) se utiliza para expresar acciones que estarán en progreso en un momento específico del futuro.\n\n1. Oraciones afirmativas:\n   - Sujeto + will + be + V-ing\n     Ejemplo: \"I will be working at 8 PM tonight.\" (Estaré trabajando a las 8 PM esta noche.)\n     Ejemplo: \"They will be traveling all day tomorrow.\" (Estarán viajando todo el día mañana.)\n     Ejemplo: \"She will be studying when you call.\" (Ella estará estudiando cuando llames.)\n\n2. Oraciones negativas:\n   - Sujeto + will + not + be + V-ing\n     Ejemplo: \"I won't be sleeping at midnight.\" (No estaré durmiendo a medianoche.)\n     Ejemplo: \"He won't be attending the meeting.\" (Él no estará asistiendo a la reunión.)\n     Ejemplo: \"They won't be using the office next week.\" (No estarán usando la oficina la próxima semana.)\n\n3. Oraciones interrogativas:\n   - Will + sujeto + be + V-ing...?\n     Ejemplo: \"Will you be watching TV at 8 o'clock?\" (¿Estarás viendo la televisión a las 8 en punto?)\n     Ejemplo: \"Will she be waiting for us?\" (¿Nos estará esperando?)\n     Ejemplo: \"Will they be using the computer?\" (¿Estarán usando el ordenador?)\n\n4. Usos del Futuro Continuo:\n   - Acciones que estarán en progreso en un momento específico del futuro:\n     Ejemplo: \"This time next week, I will be sitting on a beach.\" (La próxima semana a esta hora, estaré sentado en una playa.)\n     Ejemplo: \"At 9 PM, she will be giving a presentation.\" (A las 9 PM, ella estará haciendo una presentación.)\n   - Acciones futuras planeadas que ocurrirán de forma natural:\n     Ejemplo: \"I will be visiting my parents anyway, so I can bring your package.\" (De todos modos, estaré visitando a mis padres, así que puedo llevar tu paquete.)\n     Ejemplo: \"She will be passing your house on her way home.\" (Ella estará pasando por tu casa de camino a la suya.)\n   - Preguntas para preguntar cortésmente sobre los planes de alguien:\n     Ejemplo: \"Will you be using the car tomorrow?\" (¿Estarás usando el coche mañana?) - esta pregunta es más cortés que \"Can I use the car tomorrow?\" (¿Puedo usar el coche mañana?)\n     Ejemplo: \"Will you be going to the supermarket later?\" (¿Estarás yendo al supermercado más tarde?) - esta pregunta es más cortés que \"Can you buy something for me?\" (¿Puedes comprarme algo?)\n\n5. Diferencias entre Future Continuous y Future Simple:\n   - Future Continuous (will be + V-ing) enfatiza una acción en progreso en un momento específico del futuro.\n   - Future Simple (will + V1) indica una acción que ocurrirá en el futuro, pero sin énfasis en la duración.\n\n6. Marcadores de tiempo comúnmente usados:\n   - at this time tomorrow/next week (a esta hora mañana/la próxima semana)\n   - all day/week (todo el día/semana), during + tiempo (during the summer - durante el verano)\n   - when + oración (when you arrive - cuando llegues)",
-        "subtopics": []
-      },
-      {
-        "id": "10",
-        "title": "Can/Could (Poder/Podría)",
-        "description": "Se utiliza para habilidad, posibilidad, permiso o petición.",
-        "examples": [
-          "I can speak three languages. (Puedo hablar tres idiomas.)",
-          "It could rain later today. (Podría llover más tarde hoy.)",
-          "Could you help me with this bag? (¿Podrías ayudarme con esta bolsa?)"
-        ],
-        "color": "#E91E63",
-        "iconPath": "assets/icons/modal_verbs.svg",
-        "grammar_structure": "Los verbos modales Can y Could se utilizan con las siguientes estructuras:\n\n1. Oraciones afirmativas:\n   - Todos los sujetos + can/could + V1 (verbo base)\n\n2. Oraciones negativas:\n   - Todos los sujetos + cannot (can't) / could not (couldn't) + V1\n\n3. Oraciones interrogativas:\n   - Can/Could + sujeto + V1...?\n\n4. Usos:\n   - Habilidad presente: \"I can swim. (Puedo nadar.)\" \n   - Habilidad pasada: \"When I was young, I could run fast. (Cuando era joven, podía correr rápido.)\"\n   - Permiso: \"You can use my phone. (Puedes usar mi teléfono.)\"\n   - Posibilidad: \"It can be difficult sometimes. (A veces puede ser difícil.)\"\n   - Petición (could es más formal): \"Could you open the window? (¿Podría abrir la ventana?)\"\n   - Sugerencia: \"We can go to the cinema. (Podemos ir al cine.)\"\n\n5. Be able to:\n   - Puede usarse en lugar de can/could\n   - Se puede usar en todos los tiempos: \"I will be able to help you tomorrow. (Podré ayudarte mañana.)\"",
-        "subtopics": []
-      },
-      {
-        "id": "11",
-        "title": "Must/Have to (Tener que/Deber)",
-        "description": "Se utiliza para obligación, necesidad o fuerte probabilidad.",
-        "examples": [
-          "You must stop at a red light. (Debes detenerte en un semáforo en rojo.)",
-          "I have to finish this report by Friday. (Tengo que terminar este informe para el viernes.)",
-          "She must be at home; her car is in the driveway. (Debe de estar en casa; su coche está en la entrada.)"
-        ],
-        "color": "#9C27B0",
-        "iconPath": "assets/icons/modal_verbs.svg",
-        "grammar_structure": "Los verbos modales Must y Have to se utilizan con las siguientes estructuras:\n\n1. Oraciones afirmativas:\n   - Todos los sujetos + must + V1 (verbo base)\n   - I/you/we/they + have to + V1\n   - He/she/it + has to + V1\n\n2. Oraciones negativas:\n   - Todos los sujetos + must not (mustn't) + V1 (prohibición)\n   - I/you/we/they + do not (don't) have to + V1 (no es necesario)\n   - He/she/it + does not (doesn't) have to + V1 (no es necesario)\n\n3. Oraciones interrogativas:\n   - Must + sujeto + V1...? (no muy común)\n   - Do + I/you/we/they + have to + V1...?\n   - Does + he/she/it + have to + V1...?\n\n4. Diferencias entre Must y Have to:\n   - Must: Obligación personal, decisión o creencia del hablante\n   - Have to: Obligación externa, reglas, circunstancias\n   - Must not: Prohibición de hacer algo (¡No lo hagas!)\n   - Don't have to: No es necesario hacer algo (Es opcional)\n\n5. Otros usos de Must:\n   - Fuerte probabilidad: \"She must be tired.\" (Debe de estar cansada.)\n   - Fuerte recomendación: \"You must see this film!\" (¡Debes ver esta película!)",
-        "subtopics": []
-      },
-      {
-        "id": "12",
-        "title": "Should/Ought to (Debería)",
-        "description": "Se utiliza para consejo, sugerencia o expectativa.",
-        "examples": [
-          "You should exercise regularly. (Deberías hacer ejercicio regularmente.)",
-          "I think we ought to leave early to avoid traffic. (Creo que deberíamos salir temprano para evitar el tráfico.)",
-          "The package should arrive tomorrow. (El paquete debería llegar mañana.)"
-        ],
-        "color": "#673AB7",
-        "iconPath": "assets/icons/modal_verbs.svg",
-        "grammar_structure": "Estructura: Sujeto + should/ought to + verbo base\nEs menos fuerte que 'must'; expresa lo que es recomendable.\nPuede usarse para expresar probabilidad o expectativa.\nLa estructura 'should have done' se usa para arrepentimientos pasados.",
-        "subtopics": []
-      },
-      {
-        "id": "13",
-        "title": "Zero Conditional (Condicional Cero)",
-        "description": "Se utiliza para verdades generales o hechos científicos.",
-        "examples": [
-          "If you heat water to 100°C, it boils. (Si calientas agua a 100°C, hierve.)",
-          "If it rains, the ground gets wet. (Si llueve, el suelo se moja.)",
-          "If you don't eat, you get hungry. (Si no comes, te da hambre.)"
-        ],
-        "color": "#FF5722",
-        "iconPath": "assets/icons/conditionals.svg",
-        "grammar_structure": "Estructura: If + presente simple, presente simple\nSe puede usar 'when' en lugar de 'if'.\nEl resultado siempre ocurre si se cumple la condición.\nSe usa para hechos científicos y reglas inmutables.",
-        "subtopics": []
-      },
-      {
-        "id": "14",
-        "title": "First Conditional (Primer Condicional)",
-        "description": "Se utiliza para condiciones que es posible que ocurran en el futuro.",
-        "examples": [
-          "If it rains tomorrow, we will stay at home. (Si llueve mañana, nos quedaremos en casa.)",
-          "If you study hard, you will pass the exam. (Si estudias mucho, aprobarás el examen.)",
-          "I won't go to the party if you don't come with me. (No iré a la fiesta si no vienes conmigo.)"
-        ],
-        "color": "#FF9800",
-        "iconPath": "assets/icons/conditionals.svg",
-        "grammar_structure": "Estructura: If + presente simple, will + verbo base\nSe utiliza para situaciones que es probable que ocurran en el futuro.\nLa cláusula condicional (if clause) está en presente simple, la cláusula principal (main clause) está en futuro.\nTambién se puede formar con 'unless' (a menos que...)",
-        "subtopics": []
-      },
-      {
-        "id": "15",
-        "title": "Second Conditional (Segundo Condicional)",
-        "description": "Se utiliza para condiciones poco probables de ocurrir en el presente o futuro.",
-        "examples": [
-          "If I had a lot of money, I would travel the world. (Si tuviera mucho dinero, viajaría por el mundo.)",
-          "She would call you if she knew your number. (Te llamaría si supiera tu número.)",
-          "What would you do if you won the lottery? (¿Qué harías si ganaras la lotería?)"
-        ],
-        "color": "#FFC107",
-        "iconPath": "assets/icons/conditionals.svg",
-        "grammar_structure": "Estructura: If + pasado simple, would + verbo base\nSe utiliza para situaciones hipotéticas poco probables en el presente o futuro.\nEs más común usar 'were' en lugar de 'was' (If I were you... - Si yo fuera tú...)\nLos verbos modales 'could' y 'might' también pueden usarse en lugar de 'would'.",
-        "subtopics": []
-      },
-      {
-        "id": "16",
-        "title": "Third Conditional (Tercer Condicional)",
-        "description": "Se utiliza para condiciones y resultados que no ocurrieron en el pasado.",
-        "examples": [
-          "If you had told me, I would have helped you. (Si me lo hubieras dicho, te habría ayudado.)",
-          "She would have passed the exam if she had studied harder. (Habría aprobado el examen si hubiera estudiado más.)",
-          "I wouldn't have been late if I had taken a taxi. (No habría llegado tarde si hubiera tomado un taxi.)"
-        ],
-        "color": "#FF5722",
-        "iconPath": "assets/icons/conditionals.svg",
-        "grammar_structure": "Estructura: If + pasado perfecto, would have + participio pasado\nExpresa condiciones no realizadas en el pasado y sus consecuencias.\nMuestra los resultados hipotéticos de situaciones pasadas que no ocurrieron.\nSe usa frecuentemente en expresiones de arrepentimiento.",
-        "subtopics": []
-      },
-      {
-        "id": "17",
-        "title": "Passive Voice (Voz Pasiva)",
-        "description": "Se utiliza para enfatizar la acción en sí, más que quién la realiza.",
-        "examples": [
-          "The house was built in 1890. (La casa fue construida en 1890.)",
-          "English is spoken in many countries. (El inglés se habla en muchos países.)",
-          "The letter will be delivered tomorrow. (La carta será entregada mañana.)",
-          "My bike has been stolen! (¡Mi bicicleta ha sido robada!)"
-        ],
-        "color": "#3F51B5",
-        "iconPath": "assets/icons/passive_voice.svg",
-        "grammar_structure": "Estructura: Sujeto + verbo 'to be' (am/is/are/was/were) + participio pasado (V3)\nSe centra en la acción o en el objeto afectado, en lugar de en quién realiza la acción.\nSi se quiere mencionar al agente, se añade con 'by'.\nSe puede usar en todos los tiempos verbales (Presente, Pasado, Futuro, Perfecto, etc.).",
-        "subtopics": []
-      },
-      {
-        "id": "18",
-        "title": "Reported Speech (Estilo Indirecto)",
-        "description": "Se utiliza para transmitir las palabras o pensamientos de otras personas.",
-        "examples": [
-          "She said (that) she was tired. (Dijo que estaba cansada.)",
-          "He told me (that) he would call later. (Me dijo que llamaría más tarde.)",
-          "They asked if we were coming to the party. (Preguntaron si íbamos a la fiesta.)"
-        ],
-        "color": "#9C27B0",
-        "iconPath": "assets/icons/reported_speech.svg",
-        "grammar_structure": "Al reportar el discurso directo, los tiempos verbales se desplazan hacia el pasado (backshift).\nLos pronombres personales y posesivos cambian (I → he/she, this → that, etc.).\nLos marcadores de tiempo y lugar cambian (now → then, today → that day, etc.).\nSe utilizan verbos introductores como 'say', 'tell', 'ask'.",
-        "subtopics": []
-      },
-      {
-        "id": "19",
-        "title": "Gerunds and Infinitives (Gerundios e Infinitivos)",
-        "description": "El uso de verbos en su forma -ing (gerundio) y con 'to' (infinitivo).",
-        "examples": [
-          "I enjoy swimming. (Disfruto nadar.) - Gerundio",
-          "She wants to learn French. (Quiere aprender francés.) - Infinitivo",
-          "I stopped smoking. (Dejé de fumar.) - Gerundio",
-          "They decided to buy a new car. (Decidieron comprar un coche nuevo.) - Infinitivo"
-        ],
-        "color": "#4CAF50",
-        "iconPath": "assets/icons/gerunds_infinitives.svg",
-        "grammar_structure": "Algunos verbos solo aceptan gerundios: enjoy, finish, mind, consider.\nAlgunos verbos solo aceptan infinitivos: want, hope, decide, plan.\nAlgunos verbos aceptan tanto gerundios como infinitivos: like, love, hate, begin.\nVerbos que cambian de significado: remember to do (acordarse de hacer algo) / remember doing (recordar haber hecho algo).",
-        "subtopics": []
-      },
-      {
-        "GrammarTopic": {
-          "id": "20",
-          "title": "Articles (Artículos: A, An, The)",
-          "description": "Palabras que se usan para definir y especificar sustantivos.",
-          "examples": [
-            "I saw a cat in the garden. (Vi un gato en el jardín.)",
-            "She is an engineer. (Ella es ingeniera.)",
-            "The sun rises in the east. (El sol sale por el este.)",
-            "I need some water. (Necesito un poco de agua.)"
-          ],
-          "color": "#00BCD4",
-          "iconPath": "assets/icons/articles.svg",
-          "grammar_structure": "A/An es el artículo indefinido y se usa con sustantivos contables en singular.\n'The' es el artículo definido y se usa para cosas que tanto el hablante como el oyente conocen.\n'A' se usa con palabras que comienzan con un sonido de consonante, y 'an' con palabras que comienzan con un sonido de vocal.\nEn algunos casos no se usa ningún artículo (expresiones generales, sustantivos abstractos, sustantivos en plural).",
-          "subtopics": []
-        }
-      }
-    ]
-  }
+  "topics": [
+    {
+      "id": "1-1",
+      "title": "Simple Present (Presente Simple)",
+      "description": "Se utiliza para hábitos, verdades generales y acciones que se repiten regularmente.",
+      "examples": [
+        "I wake up at 7 AM every day. (Me levanto a las 7 AM todos los días.)",
+        "Water boils at 100°C. (El agua hierve a 100°C.)",
+        "She doesn't like coffee. (A ella no le gusta el café.)",
+        "Do you speak English? (¿Hablas inglés?)"
+      ],
+      "color": "#4CAF50",
+      "iconPath": "assets/icons/simple_present.svg",
+      "grammar_structure": "El Presente Simple (Simple Present) es una estructura de tiempo verbal utilizada para expresar rutinas diarias, hábitos, verdades generales y hechos científicos.\n\n1. Oraciones afirmativas:\n   - I/you/we/they + V1 (forma base del verbo)\n     Ejemplo: \"I work every day.\" (Trabajo todos los días.)\n     Ejemplo: \"You live in Istanbul.\" (Vives en Estambul.)\n   - He/she/it + V1 + s/es\n     Ejemplo: \"He works in a bank.\" (Él trabaja en un banco.)\n     Ejemplo: \"She lives in Ankara.\" (Ella vive en Ankara.)\n\n2. Oraciones negativas:\n   - I/you/we/they + do not (don't) + V1\n     Ejemplo: \"I don't like coffee.\" (No me gusta el café.)\n     Ejemplo: \"They don't work on Sundays.\" (Ellos no trabajan los domingos.)\n   - He/she/it + does not (doesn't) + V1\n     Ejemplo: \"He doesn't speak French.\" (Él no habla francés.)\n     Ejemplo: \"It doesn't rain much in summer.\" (No llueve mucho en verano.)\n\n3. Oraciones interrogativas:\n   - Do + I/you/we/they + V1...?\n     Ejemplo: \"Do you live here?\" (¿Vives aquí?)\n     Ejemplo: \"Do they work together?\" (¿Trabajan juntos?)\n   - Does + he/she/it + V1...?\n     Ejemplo: \"Does she like music?\" (¿A ella le gusta la música?)\n     Ejemplo: \"Does it open at 9 AM?\" (¿Abre a las 9 AM?)\n\n4. Reglas especiales para la tercera persona del singular (he/she/it):\n   - Regla general: verbo + s (work → works, play → plays)\n     Ejemplo: \"He works hard.\" (Él trabaja duro.)\n   - Verbos que terminan en ch, sh, ss, x, o: verbo + es (watch → watches, go → goes)\n     Ejemplo: \"She watches TV every evening.\" (Ella ve la televisión todas las noches.)\n   - Verbos que terminan en consonante + y: y → i + es (study → studies, cry → cries)\n     Ejemplo: \"He studies English.\" (Él estudia inglés.)\n   - Verbos que terminan en vocal + y: verbo + s (play → plays, say → says)\n     Ejemplo: \"She plays tennis.\" (Ella juega al tenis.)\n\n5. Verbos con formas especiales:\n   - have → has (para he/she/it): \"She has a car.\" (Ella tiene un coche.)\n   - do → does (para he/she/it): \"He does his homework.\" (Él hace su tarea.)\n\n6. Usos del Presente Simple:\n   - Hábitos y rutinas: \"I drink coffee every morning.\" (Bebo café todas las mañanas.)\n   - Verdades generales: \"The Earth revolves around the Sun.\" (La Tierra gira alrededor del Sol.)\n   - Situaciones permanentes: \"I live in Turkey.\" (Vivo en Turquía.)\n   - Horarios e instrucciones: \"First, you mix the ingredients.\" (Primero, mezclas los ingredientes.)\n   - Programas y horarios: \"The train arrives at 5 PM.\" (El tren llega a las 5 PM.)\n\n7. Adverbios de frecuencia comúnmente usados con el Presente Simple:\n   - always (siempre), usually (usualmente), often (a menudo)\n   - sometimes (a veces), rarely (raramente), never (nunca)\n   - every day/week/month/year (todos los días/semanas/meses/años)",
+      "subtopics": []
+    },
+    {
+      "id": "1-2",
+      "title": "Present Continuous (Presente Continuo)",
+      "description": "Se utiliza para acciones que están ocurriendo en el momento de hablar.",
+      "examples": [
+        "I am studying right now. (Estoy estudiando ahora mismo.)",
+        "He is playing football with his friends. (Él está jugando al fútbol con sus amigos.)",
+        "They are not working today. (Ellos no están trabajando hoy.)",
+        "Are you listening to me? (¿Me estás escuchando?)"
+      ],
+      "color": "#4CAF50",
+      "iconPath": "assets/icons/present_continuous.svg",
+      "grammar_structure": "El Presente Continuo (Present Continuous) es una estructura de tiempo verbal utilizada para expresar acciones que están en progreso en el momento de hablar o planes para el futuro cercano.\n\n1. Oraciones afirmativas:\n   - I + am + Ving\n     Ejemplo: \"I am reading a book.\" (Estoy leyendo un libro.)\n   - You/we/they + are + Ving\n     Ejemplo: \"You are watching TV.\" (Estás viendo la televisión.)\n     Ejemplo: \"They are playing football.\" (Están jugando al fútbol.)\n   - He/she/it + is + Ving\n     Ejemplo: \"She is studying for her exam.\" (Ella está estudiando para su examen.)\n     Ejemplo: \"It is raining.\" (Está lloviendo.)\n\n2. Oraciones negativas:\n   - I + am not ('m not) + Ving\n     Ejemplo: \"I'm not sleeping.\" (No estoy durmiendo.)\n   - You/we/they + are not (aren't) + Ving\n     Ejemplo: \"You aren't listening.\" (No estás escuchando.)\n     Ejemplo: \"They aren't working today.\" (Hoy no están trabajando.)\n   - He/she/it + is not (isn't) + Ving\n     Ejemplo: \"He isn't playing guitar.\" (Él no está tocando la guitarra.)\n     Ejemplo: \"She isn't cooking dinner.\" (Ella no está cocinando la cena.)\n\n3. Oraciones interrogativas:\n   - Am + I + Ving...?\n     Ejemplo: \"Am I disturbing you?\" (¿Te estoy molestando?)\n   - Are + you/we/they + Ving...?\n     Ejemplo: \"Are you studying English?\" (¿Estás estudiando inglés?)\n     Ejemplo: \"Are they coming tonight?\" (¿Vienen esta noche?)\n   - Is + he/she/it + Ving...?\n     Ejemplo: \"Is she waiting for us?\" (¿Nos está esperando?)\n     Ejemplo: \"Is it working properly?\" (¿Está funcionando correctamente?)\n\n4. Reglas para añadir -ing:\n   - Regla general: verbo + ing (play → playing, walk → walking)\n     Ejemplo: \"I am walking to school.\" (Estoy caminando a la escuela.)\n   - Verbos que terminan en \"e\": se quita la e + ing (come → coming, write → writing)\n     Ejemplo: \"She is writing a letter.\" (Ella está escribiendo una carta.)\n   - Verbos de una sílaba con vocal corta y una consonante final: se duplica la consonante final + ing (run → running, sit → sitting)\n     Ejemplo: \"They are running in the park.\" (Están corriendo en el parque.)\n   - Verbos que terminan en \"ie\": ie → y + ing (lie → lying, die → dying)\n     Ejemplo: \"She is lying on the beach.\" (Ella está tumbada en la playa.)\n\n5. Usos del Presente Continuo:\n   - Acciones que ocurren ahora mismo: \"I am cooking dinner right now.\" (Estoy cocinando la cena ahora mismo.)\n   - Situaciones temporales: \"She is living with her parents until she finds a new apartment.\" (Está viviendo con sus padres hasta que encuentre un nuevo apartamento.)\n   - Planes para el futuro cercano: \"We are meeting at 6 PM tonight.\" (Nos reunimos a las 6 PM esta noche.)\n   - Situaciones cambiantes: \"The population is increasing rapidly.\" (La población está aumentando rápidamente.)\n   - Acciones repetitivas y molestas (con always, constantly, continuously): \"She is always complaining.\" (Ella siempre se está quejando.)\n\n6. Adverbios de tiempo comúnmente usados con el Presente Continuo:\n   - now (ahora), right now (ahora mismo), at the moment (en este momento)\n   - today (hoy), this week/month (esta semana/mes)\n   - Look! (¡Mira!), Listen! (¡Escucha!)\n\n7. Verbos que generalmente no se usan en Presente Continuo:\n   - Verbos de estado (stative verbs): like, love, hate, want, need, prefer\n     Ejemplo: \"I like chocolate.\" (Me gusta el chocolate.) (I am liking chocolate. - INCORRECTO)\n   - Verbos de percepción: see, hear, smell, taste\n     Ejemplo: \"I see what you mean.\" (Entiendo lo que quieres decir.) (I am seeing what you mean. - INCORRECTO)\n   - Verbos de pensamiento: think, believe, understand, know, remember\n     Ejemplo: \"I think you're right.\" (Creo que tienes razón.) (I am thinking you're right. - INCORRECTO)\n   - Verbos de posesión: have, own, belong\n     Ejemplo: \"She has two cars.\" (Ella tiene dos coches.) (She is having two cars. - INCORRECTO)",
+      "subtopics": []
+    },
+    {
+      "id": "1-3",
+      "title": "Present Perfect (Presente Perfecto)",
+      "description": "Se utiliza para acciones que comenzaron en el pasado y continúan hasta el presente.",
+      "examples": [
+        "I have lived in Istanbul for 5 years. (He vivido en Estambul durante 5 años.)",
+        "She has never been to Paris. (Ella nunca ha estado en París.)",
+        "Have you ever tried sushi? (¿Alguna vez has probado el sushi?)",
+        "They have already finished their homework. (Ellos ya han terminado su tarea.)"
+      ],
+      "color": "#4CAF50",
+      "iconPath": "assets/icons/present_perfect.svg",
+      "grammar_structure": "El Presente Perfecto (Present Perfect) es una estructura de tiempo verbal utilizada para expresar eventos que ocurrieron en el pasado pero que tienen una conexión con el presente.\n\n1. Oraciones afirmativas:\n   - I/you/we/they + have + past participle (V3)\n     Ejemplo: \"I have seen that movie.\" (He visto esa película.)\n     Ejemplo: \"They have visited London.\" (Han visitado Londres.)\n   - He/she/it + has + past participle (V3)\n     Ejemplo: \"She has finished her homework.\" (Ella ha terminado su tarea.)\n     Ejemplo: \"He has lived here for ten years.\" (Él ha vivido aquí durante diez años.)\n\n2. Oraciones negativas:\n   - I/you/we/they + have not (haven't) + past participle\n     Ejemplo: \"I haven't read that book.\" (No he leído ese libro.)\n     Ejemplo: \"We haven't decided yet.\" (Todavía no hemos decidido.)\n   - He/she/it + has not (hasn't) + past participle\n     Ejemplo: \"She hasn't called me.\" (Ella no me ha llamado.)\n     Ejemplo: \"It hasn't rained for months.\" (No ha llovido en meses.)\n\n3. Oraciones interrogativas:\n   - Have + I/you/we/they + past participle...?\n     Ejemplo: \"Have you ever been to Rome?\" (¿Alguna vez has estado en Roma?)\n     Ejemplo: \"Have they arrived yet?\" (¿Ya han llegado?)\n   - Has + he/she/it + past participle...?\n     Ejemplo: \"Has she finished her exam?\" (¿Ha terminado su examen?)\n     Ejemplo: \"Has the movie started?\" (¿Ha empezado la película?)\n\n4. Usos del Presente Perfecto:\n   - Situaciones que comenzaron en el pasado y continúan en el presente:\n     Ejemplo: \"I have lived in Istanbul for five years.\" (He vivido en Estambul durante cinco años.)\n     Ejemplo: \"She has worked at this company since 2015.\" (Ella ha trabajado en esta empresa desde 2015.)\n   - Experiencias pasadas con efecto en el presente:\n     Ejemplo: \"I have broken my arm.\" (Me he roto el brazo. - Aún podría estar enyesado.)\n     Ejemplo: \"She has lost her keys.\" (Ella ha perdido sus llaves. - Aún no las ha encontrado.)\n   - Acciones en un período de tiempo no finalizado:\n     Ejemplo: \"I have drunk three cups of coffee today.\" (Hoy he bebido tres tazas de café.)\n     Ejemplo: \"She has seen five movies this week.\" (Esta semana ha visto cinco películas.)\n   - Experiencias de vida (sin especificar el tiempo):\n     Ejemplo: \"I have been to Paris twice.\" (He estado en París dos veces.)\n     Ejemplo: \"She has met many famous people.\" (Ha conocido a muchas personas famosas.)\n\n5. Adverbios de tiempo comúnmente usados con el Presente Perfecto:\n   - for + período de tiempo (durante...): for two hours, for six months, for a long time\n   - since + punto de inicio en el tiempo (desde...): since 2010, since Monday, since I was a child\n   - ever (alguna vez), never (nunca)\n   - already (ya), yet (todavía/aún - en oraciones negativas e interrogativas)\n   - just (acabar de), recently (recientemente), lately (últimamente)\n   - today (hoy), this week/month/year (esta semana/mes/año)\n\n6. Diferencia entre Present Perfect y Simple Past:\n   - Simple Past: Se utiliza para acciones que ocurrieron y terminaron en un momento específico del pasado.\n     Ejemplo: \"I visited Paris last year.\" (Visité París el año pasado.)\n   - Present Perfect: Se utiliza para acciones que conectan el pasado con el presente, sin especificar el tiempo o que ocurren en un período de tiempo no finalizado.\n     Ejemplo: \"I have visited Paris.\" (He visitado París. - No especifica cuándo.)",
+      "subtopics": []
+    },
+    {
+      "id": "4",
+      "title": "Simple Past (Pasado Simple)",
+      "description": "Se utiliza para acciones completadas en el pasado.",
+      "examples": [
+        "I visited Paris last summer. (Visité París el verano pasado.)",
+        "She didn't go to the party. (Ella no fue a la fiesta.)",
+        "Did you see that movie? (¿Viste esa película?)",
+        "They lived in London for 5 years. (Vivieron en Londres durante 5 años.)",
+        "When I was a child, I played the piano. (Cuando era niño, tocaba el piano.)"
+      ],
+      "color": "#673AB7",
+      "iconPath": "assets/icons/past_tense.svg",
+      "grammar_structure": "El Pasado Simple (Simple Past) es una estructura de tiempo verbal utilizada para acciones que se completaron en un momento específico del pasado.\n\n1. Oraciones afirmativas:\n   - Todos los sujetos (I/you/he/she/it/we/they) + V2 (verbo en pasado)\n     Ejemplo: \"I worked yesterday.\" (Trabajé ayer.)\n     Ejemplo: \"She visited her grandmother.\" (Visitó a su abuela.)\n   - Verbos regulares: V1 + ed (work → worked, play → played)\n     Ejemplo: \"They cleaned the house.\" (Limpiaron la casa.)\n   - Verbos irregulares: Segunda forma (go → went, see → saw, take → took)\n     Ejemplo: \"He went to London.\" (Fue a Londres.)\n     Ejemplo: \"We saw a good movie.\" (Vimos una buena película.)\n\n2. Oraciones negativas:\n   - Todos los sujetos + did not (didn't) + V1 (forma base del verbo)\n     Ejemplo: \"I didn't work yesterday.\" (No trabajé ayer.)\n     Ejemplo: \"She didn't visit her grandmother.\" (No visitó a su abuela.)\n     Ejemplo: \"They didn't go to the party.\" (No fueron a la fiesta.)\n\n3. Oraciones interrogativas:\n   - Did + sujeto + V1...?\n     Ejemplo: \"Did you work yesterday?\" (¿Trabajaste ayer?)\n     Ejemplo: \"Did she visit her grandmother?\" (¿Visitó a su abuela?)\n     Ejemplo: \"Did they go to the party?\" (¿Fueron a la fiesta?)\n\n4. Ortografía de los verbos regulares:\n   - Regla general: V1 + ed (play → played, work → worked)\n     Ejemplo: \"He played football.\" (Jugó al fútbol.)\n   - Verbos que terminan en consonante + y: y → i + ed (study → studied, try → tried)\n     Ejemplo: \"She studied all night.\" (Estudió toda la noche.)\n   - Verbos de una sílaba con una consonante + vocal corta: se duplica la consonante final + ed (stop → stopped, plan → planned)\n     Ejemplo: \"They stopped the car.\" (Pararon el coche.)\n   - Verbos que terminan en e: solo se añade d (live → lived, love → loved)\n     Ejemplo: \"We lived in Paris.\" (Vivimos en París.)\n\n5. Ejemplos de verbos irregulares:\n   - go → went (ir): \"I went to the cinema.\" (Fui al cine.)\n   - see → saw (ver): \"She saw her friend.\" (Vio a su amiga.)\n   - have → had (tener): \"They had a good time.\" (Lo pasaron bien.)\n   - make → made (hacer): \"He made a cake.\" (Hizo un pastel.)\n   - come → came (venir): \"They came to the party.\" (Vinieron a la fiesta.)\n\n6. Usos del Pasado Simple:\n   - Acciones que ocurrieron y terminaron en el pasado: \"I visited Rome last year.\" (Visité Roma el año pasado.)\n   - Acciones que ocurrieron en un punto específico en el tiempo: \"She arrived at 5 PM.\" (Llegó a las 5 PM.)\n   - Acciones pasadas consecutivas: \"He got up, had breakfast, and went to work.\" (Se levantó, desayunó y fue a trabajar.)\n   - Hábitos o estados pasados: \"I lived in London for five years.\" (Viví en Londres durante cinco años.)\n\n7. Marcadores de tiempo comúnmente usados con el Pasado Simple:\n   - yesterday (ayer), last week/month/year (la semana/mes/año pasada/o)\n   - x ago (hace x tiempo): two days ago (hace dos días), a long time ago (hace mucho tiempo)\n   - in + año pasado: in 2010, in 1995\n   - when I was young (cuando era joven), when I was a child (cuando era niño)",
+      "subtopics": []
+    },
+    {
+      "id": "5",
+      "title": "Past Continuous (Pasado Continuo)",
+      "description": "Se utiliza para acciones que estaban en progreso en un momento específico del pasado.",
+      "examples": [
+        "I was watching TV when she called. (Estaba viendo la televisión cuando ella llamó.)",
+        "They were playing football at 7 PM yesterday. (Ayer a las 7 PM estaban jugando al fútbol.)",
+        "What were you doing last night? (¿Qué estabas haciendo anoche?)",
+        "She wasn't sleeping when I got home. (Ella no estaba durmiendo cuando llegué a casa.)"
+      ],
+      "color": "#9C27B0",
+      "iconPath": "assets/icons/past_continuous.svg",
+      "grammar_structure": "El Pasado Continuo (Past Continuous) es una estructura de tiempo verbal utilizada para expresar acciones que estaban en progreso o sucediendo en un momento específico del pasado.\n\n1. Oraciones afirmativas:\n   - I/He/She/It + was + Ving\n     Ejemplo: \"I was reading a book.\" (Estaba leyendo un libro.)\n     Ejemplo: \"She was waiting for the bus.\" (Ella estaba esperando el autobús.)\n   - You/We/They + were + Ving\n     Ejemplo: \"They were playing football.\" (Estaban jugando al fútbol.)\n     Ejemplo: \"We were having dinner.\" (Estábamos cenando.)\n\n2. Oraciones negativas:\n   - I/He/She/It + was not (wasn't) + Ving\n     Ejemplo: \"I wasn't sleeping.\" (No estaba durmiendo.)\n     Ejemplo: \"He wasn't listening.\" (Él no estaba escuchando.)\n   - You/We/They + were not (weren't) + Ving\n     Ejemplo: \"They weren't watching TV.\" (No estaban viendo la televisión.)\n     Ejemplo: \"You weren't working yesterday.\" (No estabas trabajando ayer.)\n\n3. Oraciones interrogativas:\n   - Was + I/he/she/it + Ving...?\n     Ejemplo: \"Was she crying?\" (¿Estaba llorando?)\n     Ejemplo: \"Was it raining?\" (¿Estaba lloviendo?)\n   - Were + you/we/they + Ving...?\n     Ejemplo: \"Were you sleeping?\" (¿Estabas durmiendo?)\n     Ejemplo: \"Were they waiting for us?\" (¿Nos estaban esperando?)\n\n4. Usos del Pasado Continuo:\n   - Una acción en progreso en un momento específico del pasado:\n     Ejemplo: \"At 8 PM last night, I was reading a book.\" (Anoche a las 8 PM, estaba leyendo un libro.)\n   - Una acción en progreso que es interrumpida por otra:\n     Ejemplo: \"When she called, I was cooking dinner.\" (Cuando ella llamó, yo estaba cocinando la cena.)\n     Ejemplo: \"The phone rang while I was taking a shower.\" (El teléfono sonó mientras me estaba duchando.)\n   - Dos acciones en progreso al mismo tiempo en el pasado:\n     Ejemplo: \"While I was studying, my sister was watching TV.\" (Mientras yo estudiaba, mi hermana estaba viendo la televisión.)\n   - Una acción que continuó durante un largo período en el pasado:\n     Ejemplo: \"It was raining all day yesterday.\" (Ayer estuvo lloviendo todo el día.)\n   - Planes pasados que no se realizaron:\n     Ejemplo: \"I was going to call you, but I forgot.\" (Iba a llamarte, pero lo olvidé.)\n\n5. Diferencia entre Past Continuous y Simple Past:\n   - Simple Past: Se utiliza para acciones completadas y terminadas en el pasado.\n     Ejemplo: \"I watched a movie yesterday.\" (Ayer vi una película.)\n   - Past Continuous: Se utiliza para acciones en progreso en el pasado, enfatizando la duración.\n     Ejemplo: \"I was watching a movie when she called.\" (Estaba viendo una película cuando ella llamó.)\n\n6. Conjunciones y expresiones comúnmente usadas con el Pasado Continuo:\n   - when (cuando): \"When I arrived, they were having dinner.\" (Cuando llegué, estaban cenando.)\n   - while (mientras): \"While I was working, it started to rain.\" (Mientras trabajaba, empezó a llover.)\n   - at that time/moment (en ese momento): \"At that moment, I was thinking about you.\" (En ese momento, estaba pensando en ti.)\n   - all day/night/morning (todo el día/noche/mañana): \"He was working all night.\" (Estuvo trabajando toda la noche.)",
+      "subtopics": []
+    },
+    {
+      "id": "6",
+      "title": "Past Perfect (Pasado Perfecto)",
+      "description": "Se utiliza para acciones que ocurrieron antes que otro evento en el pasado.",
+      "examples": [
+        "I had already eaten when she arrived. (Ya había comido cuando ella llegó.)",
+        "They had lived in London before they moved to Paris. (Habían vivido en Londres antes de mudarse a París.)",
+        "Had you met him before the party? (¿Lo habías conocido antes de la fiesta?)",
+        "She hadn't finished her homework when I called. (No había terminado su tarea cuando la llamé.)"
+      ],
+      "color": "#795548",
+      "iconPath": "assets/icons/past_perfect.svg",
+      "grammar_structure": "El Pasado Perfecto (Past Perfect) es una estructura de tiempo verbal utilizada para expresar acciones que se completaron antes de otra acción en el pasado. Indica el 'pasado del pasado'.\n\n1. Oraciones afirmativas:\n   - Todos los sujetos (I/you/he/she/it/we/they) + had + past participle (V3)\n     Ejemplo: \"I had finished my work before I went home.\" (Había terminado mi trabajo antes de ir a casa.)\n     Ejemplo: \"She had studied English before she moved to London.\" (Ella había estudiado inglés antes de mudarse a Londres.)\n     Ejemplo: \"They had lived in Paris for ten years before they moved to Rome.\" (Habían vivido en París durante diez años antes de mudarse a Roma.)\n\n2. Oraciones negativas:\n   - Todos los sujetos + had not (hadn't) + past participle\n     Ejemplo: \"I hadn't seen that movie before last night.\" (No había visto esa película antes de anoche.)\n     Ejemplo: \"They hadn't finished their project when the deadline arrived.\" (No habían terminado su proyecto cuando llegó la fecha límite.)\n     Ejemplo: \"She hadn't met his parents until the wedding.\" (No había conocido a sus padres hasta la boda.)\n\n3. Oraciones interrogativas:\n   - Had + sujeto + past participle...?\n     Ejemplo: \"Had you visited Paris before that trip?\" (¿Habías visitado París antes de ese viaje?)\n     Ejemplo: \"Had she finished her homework when you called?\" (¿Había terminado su tarea cuando llamaste?)\n     Ejemplo: \"Had they ever seen snow before?\" (¿Habían visto nieve alguna vez antes?)\n\n4. Usos del Pasado Perfecto:\n   - Acciones completadas antes de otra acción en el pasado:\n     Ejemplo: \"By the time I arrived, the meeting had started.\" (Para cuando llegué, la reunión ya había comenzado.)\n   - Experiencias que ocurrieron hasta un momento en el pasado:\n     Ejemplo: \"By 2010, I had already graduated from university.\" (Para el 2010, ya me había graduado de la universidad.)\n   - Deseos o anhelos pasados no realizados (if only/wish):\n     Ejemplo: \"I wish I had studied harder.\" (Ojalá hubiera estudiado más.)\n   - Para el estilo indirecto (Reported speech):\n     Ejemplo: \"She said she had finished her homework.\" (Dijo que había terminado su tarea.)\n\n5. Relaciones de tiempo y conjunciones comúnmente usadas con el Pasado Perfecto:\n   - before + simple past (antes de...): \"I had eaten before she arrived.\" (Había comido antes de que ella llegara.)\n   - after + past perfect (después de...): \"After I had finished my work, I went home.\" (Después de que hube terminado mi trabajo, me fui a casa.)\n   - by the time + simple past (para cuando...): \"By the time we arrived, they had left.\" (Para cuando llegamos, ellos ya se habían ido.)\n   - when + simple past (cuando...): \"When I arrived, the movie had already started.\" (Cuando llegué, la película ya había comenzado.)\n   - until + simple past (hasta que...): \"I hadn't realized how serious it was until the doctor explained.\" (No me había dado cuenta de lo grave que era hasta que el médico lo explicó.)\n   - by + tiempo pasado (para...): \"By yesterday, they had completed the project.\" (Para ayer, habían completado el proyecto.)\n\n6. Diferencia entre Past Perfect y Simple Past:\n   - Simple Past: Acciones que ocurrieron en un momento específico del pasado.\n     Ejemplo: \"I visited Rome last year.\" (Visité Roma el año pasado.)\n   - Past Perfect: Acciones que ocurrieron antes de otro evento en el pasado.\n     Ejemplo: \"I had visited Rome before I went to Paris.\" (Había visitado Roma antes de ir a París.)\n\n7. Uso con marcadores de tiempo:\n   - already (ya): \"They had already left.\" (Ya se habían ido.)\n   - just (acabar de): \"She had just finished cooking.\" (Acababa de terminar de cocinar.)\n   - never (nunca): \"I had never seen such a beautiful place.\" (Nunca había visto un lugar tan hermoso.)\n   - for + período de tiempo (durante...): \"They had lived there for 5 years.\" (Habían vivido allí durante 5 años.)\n   - since + punto en el tiempo (desde...): \"He had worked there since 2005.\" (Había trabajado allí desde 2005.)",
+      "subtopics": []
+    },
+    {
+      "id": "7",
+      "title": "Will Future (Futuro con Will)",
+      "description": "Se utiliza para predicciones, promesas, ofrecimientos y decisiones espontáneas.",
+      "examples": [
+        "I think it will rain tomorrow. (Creo que lloverá mañana.)",
+        "I will help you with your homework. (Te ayudaré con tu tarea.)",
+        "I'll take the blue one, please. (Tomaré el azul, por favor.)",
+        "Will you marry me? (¿Te casarás conmigo?)",
+        "She won't come to the party. (Ella no vendrá a la fiesta.)"
+      ],
+      "color": "#FF5722",
+      "iconPath": "assets/icons/will_future.svg",
+      "grammar_structure": "El futuro con 'will' es una estructura de tiempo verbal utilizada para predecir acciones futuras, tomar decisiones espontáneas, hacer promesas u ofrecer algo.\n\n1. Oraciones afirmativas:\n   - Todos los sujetos (I/you/he/she/it/we/they) + will + V1 (verbo base)\n     Ejemplo: \"I will help you tomorrow.\" (Te ayudaré mañana.)\n     Ejemplo: \"She will finish the project on time.\" (Ella terminará el proyecto a tiempo.)\n   - Abreviatura: 'll (I'll, you'll, she'll, etc.)\n     Ejemplo: \"I'll call you later.\" (Te llamaré más tarde.)\n     Ejemplo: \"We'll be there by 8 PM.\" (Estaremos allí para las 8 PM.)\n\n2. Oraciones negativas:\n   - Todos los sujetos + will not (won't) + V1\n     Ejemplo: \"I won't forget your birthday.\" (No olvidaré tu cumpleaños.)\n     Ejemplo: \"They won't arrive until tomorrow.\" (No llegarán hasta mañana.)\n     Ejemplo: \"She won't be happy about this.\" (No estará contenta con esto.)\n\n3. Oraciones interrogativas:\n   - Will + sujeto + V1...?\n     Ejemplo: \"Will you attend the meeting?\" (¿Asistirás a la reunión?)\n     Ejemplo: \"Will she recognize me?\" (¿Me reconocerá?)\n     Ejemplo: \"Will they accept our offer?\" (¿Aceptarán nuestra oferta?)\n\n4. Usos de \"Will\":\n   - Predicciones sobre el futuro:\n     Ejemplo: \"I think it will snow tomorrow.\" (Creo que nevará mañana.)\n     Ejemplo: \"The economy will improve next year.\" (La economía mejorará el próximo año.)\n   - Decisiones espontáneas (tomadas en el momento de hablar):\n     Ejemplo: \"I'll help you with those bags.\" (Te ayudaré con esas bolsas.)\n     Ejemplo: \"I'll take the blue one.\" (Tomaré el azul.)\n   - Promesas:\n     Ejemplo: \"I will always love you.\" (Siempre te amaré.)\n     Ejemplo: \"I promise I won't tell anyone.\" (Prometo que no se lo diré a nadie.)\n   - Ofrecimientos:\n     Ejemplo: \"I'll carry that for you.\" (Lo llevaré por ti.)\n     Ejemplo: \"I'll make dinner tonight.\" (Haré la cena esta noche.)\n   - Peticiones:\n     Ejemplo: \"Will you help me, please?\" (¿Me ayudas, por favor?)\n     Ejemplo: \"Will you open the window?\" (¿Abres la ventana?)\n   - Amenazas o advertencias:\n     Ejemplo: \"You will regret this!\" (¡Te arrepentirás de esto!)\n     Ejemplo: \"You'll miss the train if you don't hurry.\" (Perderás el tren si no te das prisa.)\n\n5. Marcadores de tiempo comúnmente usados:\n   - tomorrow (mañana), next week/month/year (la próxima semana/mes/año)\n   - soon (pronto), in the future (en el futuro), later (más tarde)\n   - tonight (esta noche), in + período de tiempo (en un período de tiempo): in two days (en dos días)\n   - by + tiempo (para un momento específico): by Monday (para el lunes)",
+      "subtopics": []
+    },
+    {
+      "id": "8",
+      "title": "Going to Future (Futuro con Going to)",
+      "description": "Se utiliza para acciones planeadas con antelación y predicciones fuertes sobre eventos futuros.",
+      "examples": [
+        "I am going to study medicine. (Voy a estudiar medicina.)",
+        "She is going to call him tonight. (Ella lo va a llamar esta noche.)",
+        "They are not going to attend the wedding. (No van a asistir a la boda.)",
+        "Are you going to visit your grandparents? (¿Vas a visitar a tus abuelos?)",
+        "Look at those clouds! It's going to rain. (¡Mira esas nubes! Va a llover.)"
+      ],
+      "color": "#FF9800",
+      "iconPath": "assets/icons/going_to_future.svg",
+      "grammar_structure": "El futuro con 'going to' se utiliza para expresar acciones planeadas con antelación o predicciones basadas en evidencias claras.\n\n1. Oraciones afirmativas:\n   - Sujeto + am/is/are + going to + V1 (verbo base)\n     Ejemplo: \"I am going to study tonight.\" (Voy a estudiar esta noche.)\n     Ejemplo: \"She is going to paint the house.\" (Ella va a pintar la casa.)\n     Ejemplo: \"They are going to move to London.\" (Se van a mudar a Londres.)\n\n2. Oraciones negativas:\n   - Sujeto + am/is/are + not + going to + V1\n     Ejemplo: \"I am not going to watch that movie.\" (No voy a ver esa película.)\n     Ejemplo: \"He is not going to buy a new car.\" (Él no va a comprar un coche nuevo.)\n     Ejemplo: \"We are not going to visit them.\" (No los vamos a visitar.)\n\n3. Oraciones interrogativas:\n   - Am/Is/Are + sujeto + going to + V1...?\n     Ejemplo: \"Are you going to apply for that job?\" (¿Vas a solicitar ese trabajo?)\n     Ejemplo: \"Is she going to attend the meeting?\" (¿Va a asistir a la reunión?)\n     Ejemplo: \"Are they going to stay at a hotel?\" (¿Se van a quedar en un hotel?)\n\n4. Usos de \"Going to\":\n   - Acciones planeadas con antelación:\n     Ejemplo: \"I am going to study in Paris next year.\" (Voy a estudiar en París el próximo año.)\n     Ejemplo: \"We are going to build a new house.\" (Vamos a construir una casa nueva.)\n   - Predicciones fuertes (basadas en la situación actual):\n     Ejemplo: \"Look at those clouds. It is going to rain.\" (Mira esas nubes. Va a llover.)\n     Ejemplo: \"She is feeling sick. I think she is going to throw up.\" (Se siente mal. Creo que va a vomitar.)\n   - Eventos inevitables:\n     Ejemplo: \"The baby is going to be born in June.\" (El bebé va a nacer en junio.)\n     Ejemplo: \"They are going to get married in December.\" (Se van a casar en diciembre.)\n\n5. Diferencias entre \"going to\" y \"will\":\n   - \"Going to\" se usa generalmente para acciones ya planeadas o decididas.\n   - \"Will\" se usa generalmente para decisiones espontáneas o predicciones generales.\n   - \"Going to\" expresa una intención más definida.\n   - \"Going to\" se prefiere para predicciones basadas en evidencia actual.\n\n6. Marcadores de tiempo comúnmente usados:\n   - soon (pronto), in the near future (en un futuro cercano)\n   - tomorrow (mañana), next week/month/year (la próxima semana/mes/año)\n   - in + período de tiempo: in two hours (en dos horas)",
+      "subtopics": []
+    },
+    {
+      "id": "9",
+      "title": "Future Continuous (Futuro Continuo)",
+      "description": "Se utiliza para acciones que estarán en progreso en un momento específico del futuro.",
+      "examples": [
+        "This time tomorrow, I will be flying to Paris. (Mañana a esta hora, estaré volando a París.)",
+        "She will be waiting for you at the airport. (Ella te estará esperando en el aeropuerto.)",
+        "Will you be using the car tonight? (¿Estarás usando el coche esta noche?)",
+        "They won't be working next week. (No estarán trabajando la próxima semana.)"
+      ],
+      "color": "#FFC107",
+      "iconPath": "assets/icons/future_continuous.svg",
+      "grammar_structure": "El Futuro Continuo (Future Continuous) se utiliza para expresar acciones que estarán en progreso en un momento específico del futuro.\n\n1. Oraciones afirmativas:\n   - Sujeto + will + be + V-ing\n     Ejemplo: \"I will be working at 8 PM tonight.\" (Estaré trabajando a las 8 PM esta noche.)\n     Ejemplo: \"They will be traveling all day tomorrow.\" (Estarán viajando todo el día mañana.)\n     Ejemplo: \"She will be studying when you call.\" (Ella estará estudiando cuando llames.)\n\n2. Oraciones negativas:\n   - Sujeto + will + not + be + V-ing\n     Ejemplo: \"I won't be sleeping at midnight.\" (No estaré durmiendo a medianoche.)\n     Ejemplo: \"He won't be attending the meeting.\" (Él no estará asistiendo a la reunión.)\n     Ejemplo: \"They won't be using the office next week.\" (No estarán usando la oficina la próxima semana.)\n\n3. Oraciones interrogativas:\n   - Will + sujeto + be + V-ing...?\n     Ejemplo: \"Will you be watching TV at 8 o'clock?\" (¿Estarás viendo la televisión a las 8 en punto?)\n     Ejemplo: \"Will she be waiting for us?\" (¿Nos estará esperando?)\n     Ejemplo: \"Will they be using the computer?\" (¿Estarán usando el ordenador?)\n\n4. Usos del Futuro Continuo:\n   - Acciones que estarán en progreso en un momento específico del futuro:\n     Ejemplo: \"This time next week, I will be sitting on a beach.\" (La próxima semana a esta hora, estaré sentado en una playa.)\n     Ejemplo: \"At 9 PM, she will be giving a presentation.\" (A las 9 PM, ella estará haciendo una presentación.)\n   - Acciones futuras planeadas que ocurrirán de forma natural:\n     Ejemplo: \"I will be visiting my parents anyway, so I can bring your package.\" (De todos modos, estaré visitando a mis padres, así que puedo llevar tu paquete.)\n     Ejemplo: \"She will be passing your house on her way home.\" (Ella estará pasando por tu casa de camino a la suya.)\n   - Preguntas para preguntar cortésmente sobre los planes de alguien:\n     Ejemplo: \"Will you be using the car tomorrow?\" (¿Estarás usando el coche mañana?) - esta pregunta es más cortés que \"Can I use the car tomorrow?\" (¿Puedo usar el coche mañana?)\n     Ejemplo: \"Will you be going to the supermarket later?\" (¿Estarás yendo al supermercado más tarde?) - esta pregunta es más cortés que \"Can you buy something for me?\" (¿Puedes comprarme algo?)\n\n5. Diferencias entre Future Continuous y Future Simple:\n   - Future Continuous (will be + V-ing) enfatiza una acción en progreso en un momento específico del futuro.\n   - Future Simple (will + V1) indica una acción que ocurrirá en el futuro, pero sin énfasis en la duración.\n\n6. Marcadores de tiempo comúnmente usados:\n   - at this time tomorrow/next week (a esta hora mañana/la próxima semana)\n   - all day/week (todo el día/semana), during + tiempo (during the summer - durante el verano)\n   - when + oración (when you arrive - cuando llegues)",
+      "subtopics": []
+    },
+    {
+      "id": "10",
+      "title": "Can/Could (Poder/Podría)",
+      "description": "Se utiliza para habilidad, posibilidad, permiso o petición.",
+      "examples": [
+        "I can speak three languages. (Puedo hablar tres idiomas.)",
+        "It could rain later today. (Podría llover más tarde hoy.)",
+        "Could you help me with this bag? (¿Podrías ayudarme con esta bolsa?)"
+      ],
+      "color": "#E91E63",
+      "iconPath": "assets/icons/modal_verbs.svg",
+      "grammar_structure": "Los verbos modales Can y Could se utilizan con las siguientes estructuras:\n\n1. Oraciones afirmativas:\n   - Todos los sujetos + can/could + V1 (verbo base)\n\n2. Oraciones negativas:\n   - Todos los sujetos + cannot (can't) / could not (couldn't) + V1\n\n3. Oraciones interrogativas:\n   - Can/Could + sujeto + V1...?\n\n4. Usos:\n   - Habilidad presente: \"I can swim. (Puedo nadar.)\" \n   - Habilidad pasada: \"When I was young, I could run fast. (Cuando era joven, podía correr rápido.)\"\n   - Permiso: \"You can use my phone. (Puedes usar mi teléfono.)\"\n   - Posibilidad: \"It can be difficult sometimes. (A veces puede ser difícil.)\"\n   - Petición (could es más formal): \"Could you open the window? (¿Podría abrir la ventana?)\"\n   - Sugerencia: \"We can go to the cinema. (Podemos ir al cine.)\"\n\n5. Be able to:\n   - Puede usarse en lugar de can/could\n   - Se puede usar en todos los tiempos: \"I will be able to help you tomorrow. (Podré ayudarte mañana.)\"",
+      "subtopics": []
+    },
+    {
+      "id": "11",
+      "title": "Must/Have to (Tener que/Deber)",
+      "description": "Se utiliza para obligación, necesidad o fuerte probabilidad.",
+      "examples": [
+        "You must stop at a red light. (Debes detenerte en un semáforo en rojo.)",
+        "I have to finish this report by Friday. (Tengo que terminar este informe para el viernes.)",
+        "She must be at home; her car is in the driveway. (Debe de estar en casa; su coche está en la entrada.)"
+      ],
+      "color": "#9C27B0",
+      "iconPath": "assets/icons/modal_verbs.svg",
+      "grammar_structure": "Los verbos modales Must y Have to se utilizan con las siguientes estructuras:\n\n1. Oraciones afirmativas:\n   - Todos los sujetos + must + V1 (verbo base)\n   - I/you/we/they + have to + V1\n   - He/she/it + has to + V1\n\n2. Oraciones negativas:\n   - Todos los sujetos + must not (mustn't) + V1 (prohibición)\n   - I/you/we/they + do not (don't) have to + V1 (no es necesario)\n   - He/she/it + does not (doesn't) have to + V1 (no es necesario)\n\n3. Oraciones interrogativas:\n   - Must + sujeto + V1...? (no muy común)\n   - Do + I/you/we/they + have to + V1...?\n   - Does + he/she/it + have to + V1...?\n\n4. Diferencias entre Must y Have to:\n   - Must: Obligación personal, decisión o creencia del hablante\n   - Have to: Obligación externa, reglas, circunstancias\n   - Must not: Prohibición de hacer algo (¡No lo hagas!)\n   - Don't have to: No es necesario hacer algo (Es opcional)\n\n5. Otros usos de Must:\n   - Fuerte probabilidad: \"She must be tired.\" (Debe de estar cansada.)\n   - Fuerte recomendación: \"You must see this film!\" (¡Debes ver esta película!)",
+      "subtopics": []
+    },
+    {
+      "id": "12",
+      "title": "Should/Ought to (Debería)",
+      "description": "Se utiliza para consejo, sugerencia o expectativa.",
+      "examples": [
+        "You should exercise regularly. (Deberías hacer ejercicio regularmente.)",
+        "I think we ought to leave early to avoid traffic. (Creo que deberíamos salir temprano para evitar el tráfico.)",
+        "The package should arrive tomorrow. (El paquete debería llegar mañana.)"
+      ],
+      "color": "#673AB7",
+      "iconPath": "assets/icons/modal_verbs.svg",
+      "grammar_structure": "Estructura: Sujeto + should/ought to + verbo base\nEs menos fuerte que 'must'; expresa lo que es recomendable.\nPuede usarse para expresar probabilidad o expectativa.\nLa estructura 'should have done' se usa para arrepentimientos pasados.",
+      "subtopics": []
+    },
+    {
+      "id": "13",
+      "title": "Zero Conditional (Condicional Cero)",
+      "description": "Se utiliza para verdades generales o hechos científicos.",
+      "examples": [
+        "If you heat water to 100°C, it boils. (Si calientas agua a 100°C, hierve.)",
+        "If it rains, the ground gets wet. (Si llueve, el suelo se moja.)",
+        "If you don't eat, you get hungry. (Si no comes, te da hambre.)"
+      ],
+      "color": "#FF5722",
+      "iconPath": "assets/icons/conditionals.svg",
+      "grammar_structure": "Estructura: If + presente simple, presente simple\nSe puede usar 'when' en lugar de 'if'.\nEl resultado siempre ocurre si se cumple la condición.\nSe usa para hechos científicos y reglas inmutables.",
+      "subtopics": []
+    },
+    {
+      "id": "14",
+      "title": "First Conditional (Primer Condicional)",
+      "description": "Se utiliza para condiciones que es posible que ocurran en el futuro.",
+      "examples": [
+        "If it rains tomorrow, we will stay at home. (Si llueve mañana, nos quedaremos en casa.)",
+        "If you study hard, you will pass the exam. (Si estudias mucho, aprobarás el examen.)",
+        "I won't go to the party if you don't come with me. (No iré a la fiesta si no vienes conmigo.)"
+      ],
+      "color": "#FF9800",
+      "iconPath": "assets/icons/conditionals.svg",
+      "grammar_structure": "Estructura: If + presente simple, will + verbo base\nSe utiliza para situaciones que es probable que ocurran en el futuro.\nLa cláusula condicional (if clause) está en presente simple, la cláusula principal (main clause) está en futuro.\nTambién se puede formar con 'unless' (a menos que...)",
+      "subtopics": []
+    },
+    {
+      "id": "15",
+      "title": "Second Conditional (Segundo Condicional)",
+      "description": "Se utiliza para condiciones poco probables de ocurrir en el presente o futuro.",
+      "examples": [
+        "If I had a lot of money, I would travel the world. (Si tuviera mucho dinero, viajaría por el mundo.)",
+        "She would call you if she knew your number. (Te llamaría si supiera tu número.)",
+        "What would you do if you won the lottery? (¿Qué harías si ganaras la lotería?)"
+      ],
+      "color": "#FFC107",
+      "iconPath": "assets/icons/conditionals.svg",
+      "grammar_structure": "Estructura: If + pasado simple, would + verbo base\nSe utiliza para situaciones hipotéticas poco probables en el presente o futuro.\nEs más común usar 'were' en lugar de 'was' (If I were you... - Si yo fuera tú...)\nLos verbos modales 'could' y 'might' también pueden usarse en lugar de 'would'.",
+      "subtopics": []
+    },
+    {
+      "id": "16",
+      "title": "Third Conditional (Tercer Condicional)",
+      "description": "Se utiliza para condiciones y resultados que no ocurrieron en el pasado.",
+      "examples": [
+        "If you had told me, I would have helped you. (Si me lo hubieras dicho, te habría ayudado.)",
+        "She would have passed the exam if she had studied harder. (Habría aprobado el examen si hubiera estudiado más.)",
+        "I wouldn't have been late if I had taken a taxi. (No habría llegado tarde si hubiera tomado un taxi.)"
+      ],
+      "color": "#FF5722",
+      "iconPath": "assets/icons/conditionals.svg",
+      "grammar_structure": "Estructura: If + pasado perfecto, would have + participio pasado\nExpresa condiciones no realizadas en el pasado y sus consecuencias.\nMuestra los resultados hipotéticos de situaciones pasadas que no ocurrieron.\nSe usa frecuentemente en expresiones de arrepentimiento.",
+      "subtopics": []
+    },
+    {
+      "id": "17",
+      "title": "Passive Voice (Voz Pasiva)",
+      "description": "Se utiliza para enfatizar la acción en sí, más que quién la realiza.",
+      "examples": [
+        "The house was built in 1890. (La casa fue construida en 1890.)",
+        "English is spoken in many countries. (El inglés se habla en muchos países.)",
+        "The letter will be delivered tomorrow. (La carta será entregada mañana.)",
+        "My bike has been stolen! (¡Mi bicicleta ha sido robada!)"
+      ],
+      "color": "#3F51B5",
+      "iconPath": "assets/icons/passive_voice.svg",
+      "grammar_structure": "Estructura: Sujeto + verbo 'to be' (am/is/are/was/were) + participio pasado (V3)\nSe centra en la acción o en el objeto afectado, en lugar de en quién realiza la acción.\nSi se quiere mencionar al agente, se añade con 'by'.\nSe puede usar en todos los tiempos verbales (Presente, Pasado, Futuro, Perfecto, etc.).",
+      "subtopics": []
+    },
+    {
+      "id": "18",
+      "title": "Reported Speech (Estilo Indirecto)",
+      "description": "Se utiliza para transmitir las palabras o pensamientos de otras personas.",
+      "examples": [
+        "She said (that) she was tired. (Dijo que estaba cansada.)",
+        "He told me (that) he would call later. (Me dijo que llamaría más tarde.)",
+        "They asked if we were coming to the party. (Preguntaron si íbamos a la fiesta.)"
+      ],
+      "color": "#9C27B0",
+      "iconPath": "assets/icons/reported_speech.svg",
+      "grammar_structure": "Al reportar el discurso directo, los tiempos verbales se desplazan hacia el pasado (backshift).\nLos pronombres personales y posesivos cambian (I → he/she, this → that, etc.).\nLos marcadores de tiempo y lugar cambian (now → then, today → that day, etc.).\nSe utilizan verbos introductores como 'say', 'tell', 'ask'.",
+      "subtopics": []
+    },
+    {
+      "id": "19",
+      "title": "Gerunds and Infinitives (Gerundios e Infinitivos)",
+      "description": "El uso de verbos en su forma -ing (gerundio) y con 'to' (infinitivo).",
+      "examples": [
+        "I enjoy swimming. (Disfruto nadar.) - Gerundio",
+        "She wants to learn French. (Quiere aprender francés.) - Infinitivo",
+        "I stopped smoking. (Dejé de fumar.) - Gerundio",
+        "They decided to buy a new car. (Decidieron comprar un coche nuevo.) - Infinitivo"
+      ],
+      "color": "#4CAF50",
+      "iconPath": "assets/icons/gerunds_infinitives.svg",
+      "grammar_structure": "Algunos verbos solo aceptan gerundios: enjoy, finish, mind, consider.\nAlgunos verbos solo aceptan infinitivos: want, hope, decide, plan.\nAlgunos verbos aceptan tanto gerundios como infinitivos: like, love, hate, begin.\nVerbos que cambian de significado: remember to do (acordarse de hacer algo) / remember doing (recordar haber hecho algo).",
+      "subtopics": []
+    },
+    {
+      "GrammarTopic": {
+        "id": "20",
+        "title": "Articles (Artículos: A, An, The)",
+        "description": "Palabras que se usan para definir y especificar sustantivos.",
+        "examples": [
+          "I saw a cat in the garden. (Vi un gato en el jardín.)",
+          "She is an engineer. (Ella es ingeniera.)",
+          "The sun rises in the east. (El sol sale por el este.)",
+          "I need some water. (Necesito un poco de agua.)"
+        ],
+        "color": "#00BCD4",
+        "iconPath": "assets/icons/articles.svg",
+        "grammar_structure": "A/An es el artículo indefinido y se usa con sustantivos contables en singular.\n'The' es el artículo definido y se usa para cosas que tanto el hablante como el oyente conocen.\n'A' se usa con palabras que comienzan con un sonido de consonante, y 'an' con palabras que comienzan con un sonido de vocal.\nEn algunos casos no se usa ningún artículo (expresiones generales, sustantivos abstractos, sustantivos en plural).",
+        "subtopics": []
+      }
+    }
+  ]
+}
